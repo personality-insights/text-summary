@@ -409,7 +409,7 @@ var textSummary = (function (provider, translatorFactory) {
    * @return A String containing the text summary.
    */
   function getSummary(tree) {
-    return "<p>" + assemble(tree).join("</p><p>") + "</p>";
+    return "<p>" + assemble(tree).map(function (paragraph) { return paragraph.join(" "); }).join("</p><p>") + "</p>";
   }
 
   /**
