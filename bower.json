@@ -1,0 +1,21 @@
+{
+  "name": "text-summary",
+  "version": "0.1.0",
+  "authors": [
+    "Ary Pablo Batista <batarypa@ar.ibm.com>"
+  ],
+  "description": "Text summary",
+  "main": "textsummary.js",
+  "keywords": [
+    "text",
+    "summary"
+  ],
+  "license": "Apache License, Version 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
