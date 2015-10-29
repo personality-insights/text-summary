@@ -2,9 +2,9 @@
 <html>
   <head>
 
-    <title>Show Text Summary</title>
+    <title>Text Summary for Personality Insights</title>
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="../build/main.js"></script>
+    <script src="../build/text-summary.js"></script>
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 
     <style>
@@ -37,7 +37,7 @@
 
     <script>
       $.getJSON('./resources/profile.json', '', function ( data ) {
-        var summary = TextSummary('en');
+        var summary = new TextSummary('en');
         $('#textSummary').append(summary.getSummary(data));
 
         $('#profile').append('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
