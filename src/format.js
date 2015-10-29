@@ -44,3 +44,5 @@ function format(subject) {
 
   return output;
 }
+
+module.exports = format;
