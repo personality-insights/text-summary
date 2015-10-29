@@ -1,6 +1,6 @@
 {
-  "name": "nodejs-demo-component",
-  "version": "0.1.0",
+  "name": "text-summary",
+  "version": "0.2.0",
   "description": "The base component files",
   "main": "src/main.js",
   "scripts": {

@@ -1,11 +1,11 @@
 {
   "name": "text-summary",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "authors": [
     "Ary Pablo Batista <batarypa@ar.ibm.com>"
   ],
   "description": "Text summary",
-  "main": "textsummary.js",
+  "main": "build/textsummary.js",
   "keywords": [
     "text",
     "summary"
