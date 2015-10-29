@@ -1,0 +1,428 @@
+{
+  "id": "*UNKNOWN*",
+  "source": "*UNKNOWN*",
+  "word_count": 6567,
+  "processed_lang": "en",
+  "tree": {
+    "id": "r",
+    "name": "root",
+    "children": [
+      {
+        "id": "personality",
+        "name": "Grandes cinco",
+        "children": [
+          {
+            "id": "Openness_parent",
+            "name": "Apertura a experiencias",
+            "category": "personality",
+            "percentage": 0.96318917456145,
+            "children": [
+              {
+                "id": "Openness",
+                "name": "Apertura a experiencias",
+                "category": "personality",
+                "percentage": 0.96318917456145,
+                "sampling_error": 0.05053978332,
+                "children": [
+                  {
+                    "id": "Adventurousness",
+                    "name": "Audacia",
+                    "category": "personality",
+                    "percentage": 0.90291805995761,
+                    "sampling_error": 0.0446483246
+                  },
+                  {
+                    "id": "Artistic interests",
+                    "name": "Intereses art\u00edsticos",
+                    "category": "personality",
+                    "percentage": 0.62298076844156,
+                    "sampling_error": 0.09143243076
+                  },
+                  {
+                    "id": "Emotionality",
+                    "name": "Emocionalidad",
+                    "category": "personality",
+                    "percentage": 0.19657640442574,
+                    "sampling_error": 0.04150923824
+                  },
+                  {
+                    "id": "Imagination",
+                    "name": "Imaginaci\u00f3n",
+                    "category": "personality",
+                    "percentage": 0.91537406413123,
+                    "sampling_error": 0.05539290224
+                  },
+                  {
+                    "id": "Intellect",
+                    "name": "Intelecto",
+                    "category": "personality",
+                    "percentage": 0.9632763204304,
+                    "sampling_error": 0.04811379516
+                  },
+                  {
+                    "id": "Liberalism",
+                    "name": "Desaf\u00edo a la autoridad",
+                    "category": "personality",
+                    "percentage": 0.8995658746895,
+                    "sampling_error": 0.07415698244
+                  }
+                ]
+              },
+              {
+                "id": "Conscientiousness",
+                "name": "Responsabilidad",
+                "category": "personality",
+                "percentage": 0.79372266908597,
+                "sampling_error": 0.06415381428,
+                "children": [
+                  {
+                    "id": "Achievement striving",
+                    "name": "Necesidad de \u00e9xito",
+                    "category": "personality",
+                    "percentage": 0.77267967266708,
+                    "sampling_error": 0.08709414136
+                  },
+                  {
+                    "id": "Cautiousness",
+                    "name": "Cautela",
+                    "category": "personality",
+                    "percentage": 0.90748237784288,
+                    "sampling_error": 0.08097883472
+                  },
+                  {
+                    "id": "Dutifulness",
+                    "name": "Obediencia",
+                    "category": "personality",
+                    "percentage": 0.42204375470144,
+                    "sampling_error": 0.05344592388
+                  },
+                  {
+                    "id": "Orderliness",
+                    "name": "Disciplina",
+                    "category": "personality",
+                    "percentage": 0.18231404804666,
+                    "sampling_error": 0.06150413528
+                  },
+                  {
+                    "id": "Self-discipline",
+                    "name": "Autodisciplina",
+                    "category": "personality",
+                    "percentage": 0.49055814855665,
+                    "sampling_error": 0.04180903724
+                  },
+                  {
+                    "id": "Self-efficacy",
+                    "name": "Autoeficacia",
+                    "category": "personality",
+                    "percentage": 0.92005478387743,
+                    "sampling_error": 0.080130726
+                  }
+                ]
+              },
+              {
+                "id": "Extraversion",
+                "name": "Extroversi\u00f3n",
+                "category": "personality",
+                "percentage": 0.20436972703401,
+                "sampling_error": 0.0484735006,
+                "children": [
+                  {
+                    "id": "Activity level",
+                    "name": "Nivel de actividad",
+                    "category": "personality",
+                    "percentage": 0.34652824857071,
+                    "sampling_error": 0.06732568748
+                  },
+                  {
+                    "id": "Assertiveness",
+                    "name": "Seguridad en uno mismo",
+                    "category": "personality",
+                    "percentage": 0.19795916443609,
+                    "sampling_error": 0.07158898116
+                  },
+                  {
+                    "id": "Cheerfulness",
+                    "name": "Alegr\u00eda",
+                    "category": "personality",
+                    "percentage": 0.11725154294845,
+                    "sampling_error": 0.08991412396
+                  },
+                  {
+                    "id": "Excitement-seeking",
+                    "name": "B\u00fasqueda de emociones",
+                    "category": "personality",
+                    "percentage": 0.028545486877969,
+                    "sampling_error": 0.07369112988
+                  },
+                  {
+                    "id": "Friendliness",
+                    "name": "Simpat\u00eda",
+                    "category": "personality",
+                    "percentage": 0.43612245155469,
+                    "sampling_error": 0.06625031788
+                  },
+                  {
+                    "id": "Gregariousness",
+                    "name": "Sociabilidad",
+                    "category": "personality",
+                    "percentage": 0.081984410536096,
+                    "sampling_error": 0.05136312192
+                  }
+                ]
+              },
+              {
+                "id": "Agreeableness",
+                "name": "Amabilidad",
+                "category": "personality",
+                "percentage": 0.28996717152648,
+                "sampling_error": 0.08603307756,
+                "children": [
+                  {
+                    "id": "Altruism",
+                    "name": "Altruismo",
+                    "category": "personality",
+                    "percentage": 0.74294104018899,
+                    "sampling_error": 0.0616541538
+                  },
+                  {
+                    "id": "Cooperation",
+                    "name": "Cooperaci\u00f3n",
+                    "category": "personality",
+                    "percentage": 0.70864481796198,
+                    "sampling_error": 0.07161640548
+                  },
+                  {
+                    "id": "Modesty",
+                    "name": "Modestia",
+                    "category": "personality",
+                    "percentage": 0.053368689511208,
+                    "sampling_error": 0.0473669698
+                  },
+                  {
+                    "id": "Morality",
+                    "name": "Intransigencia",
+                    "category": "personality",
+                    "percentage": 0.25084836837865,
+                    "sampling_error": 0.05504608852
+                  },
+                  {
+                    "id": "Sympathy",
+                    "name": "Compasi\u00f3n",
+                    "category": "personality",
+                    "percentage": 0.98410756827313,
+                    "sampling_error": 0.0855590924
+                  },
+                  {
+                    "id": "Trust",
+                    "name": "Confianza",
+                    "category": "personality",
+                    "percentage": 0.45889608415994,
+                    "sampling_error": 0.0480864144
+                  }
+                ]
+              },
+              {
+                "id": "Neuroticism",
+                "name": "Rango emocional",
+                "category": "personality",
+                "percentage": 0.26018336807947,
+                "sampling_error": 0.07824525624,
+                "children": [
+                  {
+                    "id": "Anger",
+                    "name": "Vehemencia",
+                    "category": "personality",
+                    "percentage": 0.31492438770941,
+                    "sampling_error": 0.082253364
+                  },
+                  {
+                    "id": "Anxiety",
+                    "name": "Tendencia a la preocupaci\u00f3n",
+                    "category": "personality",
+                    "percentage": 0.17486596466124,
+                    "sampling_error": 0.04713949008
+                  },
+                  {
+                    "id": "Depression",
+                    "name": "Melancol\u00eda",
+                    "category": "personality",
+                    "percentage": 0.1325503535786,
+                    "sampling_error": 0.04916042476
+                  },
+                  {
+                    "id": "Immoderation",
+                    "name": "Desmesura",
+                    "category": "personality",
+                    "percentage": 0.020540652294639,
+                    "sampling_error": 0.04643391396
+                  },
+                  {
+                    "id": "Self-consciousness",
+                    "name": "Timidez",
+                    "category": "personality",
+                    "percentage": 0.05856486204716,
+                    "sampling_error": 0.04829766116
+                  },
+                  {
+                    "id": "Vulnerability",
+                    "name": "Susceptibilidad a la tensi\u00f3n",
+                    "category": "personality",
+                    "percentage": 0.10899218059413,
+                    "sampling_error": 0.07380010616
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "needs",
+        "name": "Necesidades",
+        "children": [
+          {
+            "id": "Challenge_parent",
+            "name": "Desaf\u00edo",
+            "category": "needs",
+            "percentage": 0.85736247663121,
+            "children": [
+              {
+                "id": "Challenge",
+                "name": "Desaf\u00edo",
+                "category": "needs",
+                "percentage": 0.85736247663121,
+                "sampling_error": 0.07247685872
+              },
+              {
+                "id": "Closeness",
+                "name": "Familiaridad",
+                "category": "needs",
+                "percentage": 0.32018595829834,
+                "sampling_error": 0.07183077516
+              },
+              {
+                "id": "Curiosity",
+                "name": "Curiosidad",
+                "category": "needs",
+                "percentage": 0.24752424667276,
+                "sampling_error": 0.101476719
+              },
+              {
+                "id": "Excitement",
+                "name": "Entusiasmo",
+                "category": "needs",
+                "percentage": 0.21159141591103,
+                "sampling_error": 0.0914143236
+              },
+              {
+                "id": "Harmony",
+                "name": "Armon\u00eda",
+                "category": "needs",
+                "percentage": 0.37183355958763,
+                "sampling_error": 0.09109930044
+              },
+              {
+                "id": "Ideal",
+                "name": "Ideal",
+                "category": "needs",
+                "percentage": 0.290911751017,
+                "sampling_error": 0.08270395336
+              },
+              {
+                "id": "Liberty",
+                "name": "Libertad",
+                "category": "needs",
+                "percentage": 0.22431800034511,
+                "sampling_error": 0.12361126224
+              },
+              {
+                "id": "Love",
+                "name": "Amor",
+                "category": "needs",
+                "percentage": 0.44385290177097,
+                "sampling_error": 0.08342828824
+              },
+              {
+                "id": "Practicality",
+                "name": "Practicidad",
+                "category": "needs",
+                "percentage": 0.31160852051691,
+                "sampling_error": 0.07383529028
+              },
+              {
+                "id": "Self-expression",
+                "name": "Autoexpresi\u00f3n",
+                "category": "needs",
+                "percentage": 0.23427905179356,
+                "sampling_error": 0.07087937516
+              },
+              {
+                "id": "Stability",
+                "name": "Estabilidad",
+                "category": "needs",
+                "percentage": 0.46789839321491,
+                "sampling_error": 0.09041347032
+              },
+              {
+                "id": "Structure",
+                "name": "Estructura",
+                "category": "needs",
+                "percentage": 0.49483091059125,
+                "sampling_error": 0.06854961512
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "values",
+        "name": "Valores",
+        "children": [
+          {
+            "id": "Self-transcendence_parent",
+            "name": "Autotranscendencia",
+            "category": "values",
+            "percentage": 1,
+            "children": [
+              {
+                "id": "Conservation",
+                "name": "Conservaci\u00f3n",
+                "category": "values",
+                "percentage": 0.0098670810707333,
+                "sampling_error": 0.0627080972
+              },
+              {
+                "id": "Openness to change",
+                "name": "Apertura al cambio",
+                "category": "values",
+                "percentage": 0.97202755244595,
+                "sampling_error": 0.05670810352
+              },
+              {
+                "id": "Hedonism",
+                "name": "Hedonismo",
+                "category": "values",
+                "percentage": 0.092878240251695,
+                "sampling_error": 0.11362771944
+              },
+              {
+                "id": "Self-enhancement",
+                "name": "Superaci\u00f3n personal",
+                "category": "values",
+                "percentage": 0.21588873696352,
+                "sampling_error": 0.08690135832
+              },
+              {
+                "id": "Self-transcendence",
+                "name": "Autotranscendencia",
+                "category": "values",
+                "percentage": 1,
+                "sampling_error": 0.0655177128
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

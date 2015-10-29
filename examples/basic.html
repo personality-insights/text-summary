@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Show Text Summary</title>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="../build/main.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+      #profile pre {
+        max-height: 400px;
+      }
+
+      #textSummary {
+        font-size: 1.2em;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="container">
+      <h1>Text Summary for Personality Insights</h1>
+      <p class="lead">Use it to generate a text describing your personality.</p>
+      <div class="row">
+        <div class="col-sm-6 col-xs-12">
+          <h2>Personality Profile</h2>
+          <div id="profile" class=""></div>
+        </div>
+        <div class="col-sm-6 col-xs-12">
+          <h2>Personality Summary</h2>
+          <div id="textSummary"></div>
+        </div>
+      </div>
+      </div>
+    </div>
+
+    <script>
+      $.getJSON('./resources/profile.json', '', function ( data ) {
+        var summary = TextSummary('en');
+        $('#textSummary').append(summary.getSummary(data));
+
+        $('#profile').append('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
+      });
+
+    </script>
+
+  </body>
+</html>
