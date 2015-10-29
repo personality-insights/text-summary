@@ -4911,9 +4911,9 @@ module.exports = function (lang) {
    * @return A String containing the text summary.
    */
   function getSummary(profile) {
-    return "<p>" + assemble(profile.tree).map(function (paragraph) {
+    return assemble(profile.tree).map(function (paragraph) {
       return paragraph.join(" ");
-    }).join("</p><p>") + "</p>";
+    }).join("\n");
   }
 
   /* Text-Summary API */

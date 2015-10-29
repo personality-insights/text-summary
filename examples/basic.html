@@ -36,9 +36,15 @@
     </div>
 
     <script>
+
+      function buildSummaryHtml(summary) {
+        return '<p>' + summary.split('\n').join('</p><p>') + '</p>';
+      }
+
       $.getJSON('./resources/profile.json', '', function ( data ) {
-        var summary = new TextSummary('en');
-        $('#textSummary').append(summary.getSummary(data));
+        var summary = new TextSummary('en'),
+            summaryText = summary.getSummary(data);
+        $('#textSummary').append(buildSummaryHtml(summaryText));
 
         $('#profile').append('<pre>' + JSON.stringify(data, null, 2) + '</pre>');
       });
