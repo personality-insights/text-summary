@@ -379,15 +379,6 @@ module.exports = function (lang) {
     return "<p>" + assemble(tree).map(function (paragraph) { return paragraph.join(" "); }).join("</p><p>") + "</p>";
   }
 
-  /**
-   * Initializes the TextSummary module.
-   * @param jsonPath The path were json files are held.
-   */
-  function init(callback, jsonPath) {
-    self.jsonPath = jsonPath || self.jsonPath;
-    self.loadSummaryData(callback);
-  }
-
   /* Text-Summary API */
   self.assembleTraits = assembleTraits;
   self.assembleFacets = assembleFacets;
