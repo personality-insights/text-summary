@@ -87,7 +87,12 @@ var translatorFactory = (function () {
 
     var DEFAULT_LOCALE = 'en',
         I18N_DIR = './i18n',
-        self = {};
+        self = {
+          dictionaries: {
+            'en': require('./i18n/en.json'),
+            'es': require('./i18n/es.json')
+          }
+        };
 
 
     /**
@@ -121,9 +126,9 @@ var translatorFactory = (function () {
 
 
       for (var i = 0; i < locales.length; i++) {
-        try {
-          return require(I18N_DIR + '/' + locales[0]);
-        } catch(e) {}
+        if (self.dictionaries[locales[i]]) {
+          return self.dictionaries[locales[i]];
+        }
       }
 
       throw new Error('Could not obtain any dictionary for locale "' + locale + '"');
@@ -135,5 +140,6 @@ var translatorFactory = (function () {
 
 module.exports = {
   i18nProvider : i18nProvider,
+  getDictionary : i18nProvider.getDictionary,
   translatorFactory : translatorFactory
 };

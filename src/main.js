@@ -24,10 +24,10 @@ var format = require('./format'),
  */
 module.exports = function (lang) {
 
-  dictionary = i18n.getDictionary(lang);
 
   var self  = {},
-    tphrase = translatorFactory.createTranslator(dictionary.phrases); // i18n for phrases
+    dictionary = i18n.getDictionary(lang),
+    tphrase = i18n.translatorFactory.createTranslator(dictionary.phrases); // i18n for phrases
 
   // Download all static data.
   self.circumplexData = dictionary.traits;
@@ -375,8 +375,8 @@ module.exports = function (lang) {
    * @param tree A TraitTree.
    * @return A String containing the text summary.
    */
-  function getSummary(tree) {
-    return "<p>" + assemble(tree).map(function (paragraph) { return paragraph.join(" "); }).join("</p><p>") + "</p>";
+  function getSummary(profile) {
+    return "<p>" + assemble(profile.tree).map(function (paragraph) { return paragraph.join(" "); }).join("</p><p>") + "</p>";
   }
 
   /* Text-Summary API */
@@ -386,6 +386,6 @@ module.exports = function (lang) {
   self.assembleValues = assembleValues;
   self.assemble = assemble;
   self.getSummary = getSummary;
-  self.init = init;
 
+  return self;
 };
