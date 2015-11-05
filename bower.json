@@ -5,7 +5,7 @@
     "Ary Pablo Batista <batarypa@ar.ibm.com>"
   ],
   "description": "Text summary",
-  "main": "build/textsummary.js",
+  "main": "build/text-summary.js",
   "keywords": [
     "text",
     "summary"
