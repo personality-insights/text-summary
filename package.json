@@ -1,14 +1,14 @@
 {
   "name": "text-summary",
   "version": "0.2.0",
-  "description": "The base component files",
-  "main": "bin/nodejs-demo-component.js",
+  "description": "Generate Text Summary for Personality Insights Profile",
+  "main": "bin/text-summary.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.rtp.raleigh.ibm.com:people-insights-commons/nodejs-demo-component.git"
+    "url": "git@github.rtp.raleigh.ibm.com:people-insights-demo-components/text-summary.git"
   },
   "keywords": [
     "people",
