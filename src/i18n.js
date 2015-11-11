@@ -89,8 +89,8 @@ var translatorFactory = (function () {
         I18N_DIR = './i18n',
         self = {
           dictionaries: {
-            'en': require('./i18n/en.json'),
-            'es': require('./i18n/es.json')
+            'en': require('./i18n/en'),
+            'es': require('./i18n/es')
           }
         };
 
