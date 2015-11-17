@@ -307,6 +307,7 @@ module.exports = {
     "You consider %s to guide a large part of what you do" : "You consider %s to guide a large part of what you do",
     "You consider both %s and %s to guide a large part of what you do" : "You consider both %s and %s to guide a large part of what you do",
     "And %s": "And %s",
+    "You value %s a bit more": "You value %s a bit more",
     "Experiences that make you feel high %s are generally unappealing to you": "Experiences that make you feel high %s are generally unappealing to you",
     "Experiences that give a sense of %s hold some appeal to you": "Experiences that give a sense of %s hold some appeal to you",
     "You are motivated to seek out experiences that provide a strong feeling of %s": "You are motivated to seek out experiences that provide a strong feeling of %s",
