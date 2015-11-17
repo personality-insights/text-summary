@@ -1,6 +1,6 @@
 {
   "name": "text-summary",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Generate Text Summary for Personality Insights Profile",
   "main": "bin/text-summary.js",
   "scripts": {
@@ -11,29 +11,14 @@
     "url": "git@github.rtp.raleigh.ibm.com:people-insights-demo-components/text-summary.git"
   },
   "keywords": [
-    "people",
+    "personality",
     "insights",
-    "base",
-    "nodejs",
-    "demo",
-    "component"
+    "text",
+    "summary"
   ],
   "author": "Ary Pablo Batista <batarypa@ar.ibm.com>",
   "license": "Apache License Version 2.0",
   "dependencies": {
-    "async": "^0.9.0",
-    "babelify": "^5.0.4",
-    "body-parser": "^1.9.0",
-    "colors": "^1.0.2",
-    "cors": "^2.4.2",
-    "envify": "^3.4.0",
-    "express": "^4.9.5",
-    "method-override": "^2.2.0",
-    "moment": "^2.8.3",
-    "morgan": "^1.3.2",
-    "node-logentries": "^0.1.4",
-    "react": "^0.13.1",
-    "respawn": "^1.0.1"
   },
   "devDependencies": {
     "gulp": "~3.9.0",

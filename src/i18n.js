@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+var format = require('./format');
 
 /**
  * Creates translators
