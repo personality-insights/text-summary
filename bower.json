@@ -8,7 +8,10 @@
   "main": "build/text-summary.js",
   "keywords": [
     "text",
-    "summary"
+    "summary",
+    "personality",
+    "personality insights",
+    "ibm watson",
   ],
   "license": "Apache License, Version 2.0",
   "ignore": [
