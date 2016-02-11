@@ -2,8 +2,6 @@
 
 Generate a text description from a given personality profile.
 
-## Usage
-
 Include the script in your page
 ```
 <script src="path/to/text-summary.js"></script>

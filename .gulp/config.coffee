@@ -14,13 +14,20 @@
 # the License.
 ###
 
+extend = require('util')._extend
+optional = require('optional')
+
+userConfig = optional('../config')
 packageInfo = require('../package.json')
 
 config =
+
   component:
     name: packageInfo.name
-    exportName: packageInfo.name.split('-').map((part) -> part[0].toUpperCase() + part.slice(1)).join('')
+    exportName: packageInfo.exportName || packageInfo.name.split('-').map((part) -> part[0].toUpperCase() + part.slice(1)).join('')
     version : packageInfo.version
+    versioned: false
+
   directories :
     release : 'bin'
     build   : '.build'
@@ -29,5 +36,15 @@ config =
     scripts : 'src'
     styles  : 'src/sass'
 
+  compilation:
+    browserify :
+      enabled : true
+      transform : [
+        "babelify"
+        "envify"
+      ]
+    standalone : true
 
-module.exports = config
+    debug : true
+
+module.exports = extend(config, userConfig)
