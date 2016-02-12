@@ -1,22 +1,24 @@
 {
-  "name": "text-summary",
+  "name": "personality-text-summary",
   "version": "0.2.1",
   "description": "Generate Text Summary for Personality Insights Profile",
-  "main": "bin/text-summary.js",
+  "main": "bin/personality-text-summary.js",
+  "exportName": "TextSummary",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.rtp.raleigh.ibm.com:people-insights-demo-components/text-summary.git"
+    "url": "git@github.com:ibm-silvergate/personality-text-summary.git"
   },
   "author": "Ary Pablo Batista <batarypa@ar.ibm.com>",
-  "license": "Apache License Version 2.0",
+  "license": "Apache-2.0",
   "keywords": [
     "personality",
-    "insights",
+    "personality insights",
     "text",
-    "summary"
+    "summary",
+    "ibm watson"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -50,6 +52,5 @@
     "optional": "~0.1.3",
     "run-sequence": "^1.1.5",
     "through2": "~2.0.0"
-  },
-  "private": true
+  }
 }

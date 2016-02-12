@@ -6,7 +6,7 @@ Generate a text description from a given personality profile.
 ---
 1. **Include the script** in your page
 ```
-<script src="path/to/text-summary.standalone.min.js"></script>
+<script src="path/to/personality-text-summary.standalone.min.js"></script>
 ```
 2. **Generate the text description** from a profile.
 ```

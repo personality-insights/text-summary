@@ -1,11 +1,11 @@
 {
-  "name": "text-summary",
+  "name": "personality-text-summary",
   "version": "0.2.1",
   "authors": [
     "Ary Pablo Batista <batarypa@ar.ibm.com>"
   ],
-  "description": "Text summary",
-  "main": "build/text-summary.js",
+  "description": "Generate a text description from a given personality profile.",
+  "main": "bin/personality-text-summary.js",
   "keywords": [
     "text",
     "summary",
@@ -13,7 +13,7 @@
     "personality insights",
     "ibm watson",
   ],
-  "license": "Apache License, Version 2.0",
+  "license": "Apache-2.0",
   "ignore": [
     "**/.*",
     "node_modules",
