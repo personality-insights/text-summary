@@ -15,7 +15,7 @@ summaryText = textSummary.getSummary(profile);
 ```
 3. Print it somewhere!
 
-See the complete [example code](example_code) or [try it live](live_example)
+See the complete [example code][example_code] or [try it live][live_example]
 
 
 ## API Methods
@@ -40,5 +40,5 @@ At the moment the available locales are:
 ---
 You can run `gulp` command to build the component. Binaries will be deployed to `bin` folder.
 
-[example_code]:https://github.com/ibm-silvergate/personality-text-summary/blob/master/examples/example.html
-[live_example]:https://rawgit.com/ibm-silvergate/personality-text-summary/master/examples/example.html
+[example_code]: https://github.com/ibm-silvergate/personality-text-summary/blob/master/examples/example.html
+[live_example]: https://rawgit.com/ibm-silvergate/personality-text-summary/master/examples/example.html
