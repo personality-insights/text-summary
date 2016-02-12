@@ -1,6 +1,6 @@
 {
   "name": "personality-text-summary",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "authors": [
     "Ary Pablo Batista <batarypa@ar.ibm.com>"
   ],
@@ -11,7 +11,7 @@
     "summary",
     "personality",
     "personality insights",
-    "ibm watson",
+    "ibm watson"
   ],
   "license": "Apache-2.0",
   "ignore": [
