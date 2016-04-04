@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ibm-silvergate/personality-text-summary.git"
+    "url": "git@github.com:personality-insights/text-summary.git"
   },
   "author": "Ary Pablo Batista <batarypa@ar.ibm.com>",
   "license": "Apache-2.0",
