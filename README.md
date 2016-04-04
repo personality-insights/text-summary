@@ -1,6 +1,6 @@
 # Text Summary for Personality Insights
 
-![last-release](https://img.shields.io/github/tag/ibm-silvergate/personality-text-summary.svg)
+![last-release](https://img.shields.io/github/tag/personality-insights/text-summary.svg)
 [![npm-version](https://img.shields.io/npm/v/personality-text-summary.svg)](https://www.npmjs.com/package/personality-text-summary)
 [![npm-license](https://img.shields.io/npm/l/personality-text-summary.svg)](https://www.npmjs.com/package/personality-text-summary)
 [![npm-downloads](https://img.shields.io/npm/dm/personality-text-summary.svg)](https://www.npmjs.com/package/personality-text-summary)
