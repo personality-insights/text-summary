@@ -91,7 +91,8 @@ var translatorFactory = (function () {
         self = {
           dictionaries: {
             'en': require('./i18n/en'),
-            'es': require('./i18n/es')
+            'es': require('./i18n/es'),
+            'ja': require('./i18n/ja')
           }
         };
 
