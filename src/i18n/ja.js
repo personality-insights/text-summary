@@ -67,14 +67,14 @@ module.exports = {
   	},
   	"Cooperation": {
   		"Big5": "Agreeableness",
-  		"LowTerm": "意固地な",
-  		"HighTerm": "気のおけない",
+  		"LowTerm": "固執する",
+  		"HighTerm": "柔軟な",
   		"LowDescription": "他人と対立することに尻込みしません",
   		"HighDescription": "文句を言うような気難しさがなく、対立を回避しようとします"
   	},
   	"Altruism": {
   		"Big5": "Agreeableness",
-  		"LowTerm": "自己中心的な",
+  		"LowTerm": "自分本位な",
   		"HighTerm": "利他的な",
   		"LowDescription": "人のために時間を費やすよりも、自立的に自分のことを自分で行う傾向があります",
   		"HighDescription": "人を支援することに充実感を覚え、そのように尽力するでしょう"
@@ -88,9 +88,9 @@ module.exports = {
   	},
   	"Modesty": {
   		"Big5": "Agreeableness",
-  		"LowTerm": "プライドが高い",
+  		"LowTerm": "自己評価が高い",
   		"HighTerm": "謙虚な",
-  		"LowDescription": "自分を高く評価しており、自己満足しています",
+  		"LowDescription": "自分を高く評価しており、自分に満足しています",
   		"HighDescription": "注目されるのが苦手です"
   	},
   	"Sympathy": {
@@ -102,7 +102,7 @@ module.exports = {
   	},
   	"Self-efficacy": {
   		"Big5": "Conscientiousness",
-  		"LowTerm": "自信喪失の",
+  		"LowTerm": "自分に自信が持てない",
   		"HighTerm": "自分に自信がある",
   		"LowDescription": "自分の目標達成能力をしばしば疑います",
   		"HighDescription": "始めたことを成し遂げる能力があると思っています"
@@ -159,14 +159,14 @@ module.exports = {
   	"Depression": {
   		"Big5": "Neuroticism",
   		"LowTerm": "現状に満足している",
-  		"HighTerm": "憂鬱な",
+  		"HighTerm": "沈みがちな",
   		"LowDescription": "概してあなた自身に満足しています",
   		"HighDescription": "不満に思うことについて常に考えてしまいます"
   	},
   	"Self-consciousness": {
   		"Big5": "Neuroticism",
   		"LowTerm": "確信を持って行動する",
-  		"HighTerm": "自意識過剰な",
+  		"HighTerm": "人目を気にする",
   		"LowDescription": "困難を感じたりせず、大抵の場合自信に満ちています",
   		"HighDescription": "人からどう思われているかについて神経質になっています"
   	},
@@ -175,7 +175,7 @@ module.exports = {
   		"LowTerm": "自制心がある",
   		"HighTerm": "快楽主義な",
   		"LowDescription": "自分の欲望をコントロールできますし、強烈な欲望を持ちません",
-  		"HighDescription": "強い欲求を持っており、それに振り回されます"
+  		"HighDescription": "強い欲求を持っており、それに惑わされます"
   	},
   	"Vulnerability": {
   		"Big5": "Neuroticism",
@@ -195,7 +195,7 @@ module.exports = {
   		"Big5": "Openness",
   		"LowTerm": "芸術に無関心な",
   		"HighTerm": "芸術への理解がある",
-  		"LowDescription": "我々が調査した人々と比べると、芸術や創作活動にあまり関心が無いようです",
+  		"LowDescription": "我々が調査した人々と比べると、芸術や創作活動にあまり関心がないようです",
   		"HighDescription": "美を楽しみ、創造的な経験を追求します"
   	},
   	"Emotionality": {
@@ -304,11 +304,11 @@ module.exports = {
     "You don't find either %s or %s to be particularly motivating for you": "%s、%sのいずれも関心がありません",
     "You value both %s a bit": "両方の%sを少し評価します",
     "You value both %s and %s a bit": "%s と%sの両方が少しばかり有用と考えています",
-    "You consider %s to guide a large part of what you do" : "%sがあなた行動に大きな影響を与えています",
+    "You consider %s to guide a large part of what you do" : "%sがあなたの行動に大きな影響を与えています",
     "You consider both %s and %s to guide a large part of what you do" : "方針を決める際に%sと%sの両方を重要とみなします",
     "And %s": "また%s",
     "You value %s a bit more": "%sを多少有用だと考えています",
-    "Experiences that make you feel high %s are generally unappealing to you": "慨して気分が高揚する経験の%sにはあまり魅力を感じません",
+    "Experiences that make you feel high %s are generally unappealing to you": "気分が高揚する経験の%sには慨して魅力を感じません",
     "Experiences that give a sense of %s hold some appeal to you": "%sを感じられる体験に魅力を感じます",
     "You are motivated to seek out experiences that provide a strong feeling of %s": "%sにつながる体験を好みます",
     "Your choices are driven by a desire for %s" : "%sを意識して意思決定するタイプです",
@@ -320,33 +320,33 @@ module.exports = {
       "Agreeableness_minus_Conscientiousness_minus": [
           {
               "perceived_negatively": true,
-              "word": "軽はずみな"
+              "word": "猪突猛進な"
           },
           {
               "perceived_negatively": true,
-              "word": "不作法な"
+              "word": "儀礼にこだわらない、単刀直入な"
           },
           {
               "perceived_negatively": true,
-              "word": "懐疑的な"
+              "word": "全面的には信頼しない"
           },
           {
               "perceived_negatively": true,
-              "word": "非協力的な"
+              "word": "安易に協調せず、自分の信念を貫く"
           },
           {
               "perceived_negatively": true,
-              "word": "そそっかしい"
+              "word": "議論より実践の"
           }
       ],
       "Agreeableness_minus_Conscientiousness_plus": [
           {
               "perceived_negatively": false,
-              "word": "厳密な"
+              "word": "忠実な"
           },
           {
               "perceived_negatively": false,
-              "word": "柔軟性に欠ける"
+              "word": "剛直な"
           },
           {
               "perceived_negatively": true,
@@ -356,15 +356,15 @@ module.exports = {
       "Agreeableness_minus_Extraversion_minus": [
           {
               "perceived_negatively": true,
-              "word": "ひねくれている"
+              "word": "斜に構えた"
           },
           {
               "perceived_negatively": true,
-              "word": "他人を警戒する"
+              "word": "人に用心深い"
           },
           {
               "perceived_negatively": true,
-              "word": "引きこもりがちな"
+              "word": "引っ込み思案な"
           },
           {
               "perceived_negatively": true,
@@ -376,7 +376,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "陰気な"
+              "word": "心配そうな"
           }
       ],
       "Agreeableness_minus_Extraversion_plus": [
@@ -390,7 +390,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "要領の悪い"
+              "word": "荒削りな"
           },
           {
               "perceived_negatively": true,
@@ -398,11 +398,11 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "乱暴な"
+              "word": "大まかな"
           },
           {
               "perceived_negatively": false,
-              "word": "ずるい"
+              "word": "ちゃめっ気のある"
           },
           {
               "perceived_negatively": true,
@@ -410,21 +410,21 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "粗暴な"
+              "word": "飾り気のない"
           },
           {
               "perceived_negatively": true,
-              "word": "よこしまな"
+              "word": "疑われやすい"
           }
       ],
       "Agreeableness_minus_Neuroticism_minus": [
           {
               "perceived_negatively": true,
-              "word": "鈍感な"
+              "word": "気配りが苦手な"
           },
           {
               "perceived_negatively": true,
-              "word": "無情な"
+              "word": "よそよそしい"
           },
           {
               "perceived_negatively": true,
@@ -432,7 +432,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "感情的でない"
+              "word": "感情に流されない"
           }
       ],
       "Agreeableness_minus_Neuroticism_plus": [
@@ -446,7 +446,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "不機嫌な"
+              "word": "怒りっぽい"
           },
           {
               "perceived_negatively": true,
@@ -454,7 +454,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "気難しい"
+              "word": "ご機嫌斜めの"
           },
           {
               "perceived_negatively": true,
@@ -462,7 +462,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "無愛想な"
+              "word": "社交が苦手な"
           },
           {
               "perceived_negatively": true,
@@ -472,35 +472,35 @@ module.exports = {
       "Agreeableness_minus_Openness_minus": [
           {
               "perceived_negatively": true,
-              "word": "粗野な"
+              "word": "大雑把な"
           },
           {
               "perceived_negatively": true,
-              "word": "要領が悪い"
+              "word": "機転の利かない"
           },
           {
               "perceived_negatively": true,
-              "word": "ぶっきらぼうな"
+              "word": "素っ気ない"
           },
           {
               "perceived_negatively": true,
-              "word": "偏狭な"
+              "word": "心にゆとりがない"
           },
           {
               "perceived_negatively": true,
-              "word": "無感覚な"
+              "word": "情にほだされない"
           },
           {
               "perceived_negatively": true,
-              "word": "無慈悲な"
+              "word": "断固とした"
           },
           {
               "perceived_negatively": true,
-              "word": "容赦がない"
+              "word": "手加減できない"
           },
           {
               "perceived_negatively": true,
-              "word": "報復的な"
+              "word": "執念深い"
           }
       ],
       "Agreeableness_minus_Openness_plus": [
@@ -510,17 +510,17 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "変わった"
+              "word": "風変わりな"
           },
           {
               "perceived_negatively": false,
-              "word": "個人主義者"
+              "word": "個性的な"
           }
       ],
       "Agreeableness_plus_Conscientiousness_minus": [
           {
               "perceived_negatively": false,
-              "word": "控えめ"
+              "word": "控えめな"
           },
           {
               "perceived_negatively": false,
@@ -530,11 +530,11 @@ module.exports = {
       "Agreeableness_plus_Conscientiousness_plus": [
           {
               "perceived_negatively": false,
-              "word": "協力的な"
+              "word": "役立つ"
           },
           {
               "perceived_negatively": false,
-              "word": "強調的な"
+              "word": "協力的な"
           },
           {
               "perceived_negatively": false,
@@ -542,7 +542,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "いんぎんな"
+              "word": "礼儀正しい"
           },
           {
               "perceived_negatively": false,
@@ -666,7 +666,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "敏感な"
+              "word": "活気にあふれる"
           },
           {
               "perceived_negatively": false,
@@ -684,7 +684,7 @@ module.exports = {
       "Agreeableness_plus_Openness_minus": [
           {
               "perceived_negatively": true,
-              "word": "依存症の"
+              "word": "人に頼りがちな"
           },
           {
               "perceived_negatively": true,
@@ -720,19 +720,19 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "非協力的な"
+              "word": "安易に協調せず、自分の信念を貫く"
           },
           {
               "perceived_negatively": true,
-              "word": "信頼できない"
+              "word": "頼りない"
           },
           {
               "perceived_negatively": true,
-              "word": "懐疑的な"
+              "word": "全面的には信頼しない"
           },
           {
               "perceived_negatively": true,
-              "word": "そそっかしい"
+              "word": "議論より実践の"
           }
       ],
       "Conscientiousness_minus_Agreeableness_plus": [
@@ -774,19 +774,19 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "騒がしい"
+              "word": "ひどく陽気な"
           },
           {
               "perceived_negatively": true,
-              "word": "無謀な"
+              "word": "向こう見ずな"
           },
           {
               "perceived_negatively": true,
-              "word": "向こう見ずの"
+              "word": "がむしゃらな"
           },
           {
               "perceived_negatively": false,
-              "word": "実証的な"
+              "word": "感情を表に出す"
           }
       ],
       "Conscientiousness_minus_Neuroticism_minus": [
@@ -796,25 +796,25 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "落ち着いている"
+              "word": "地味な"
           }
       ],
       "Conscientiousness_minus_Neuroticism_plus": [
           {
               "perceived_negatively": true,
-              "word": "注意散漫な"
+              "word": "ぼーっとしてる"
           },
           {
               "perceived_negatively": true,
-              "word": "一貫性がない"
+              "word": "臨機応変な"
           },
           {
               "perceived_negatively": true,
-              "word": "とっぴな"
+              "word": "風変わりな"
           },
           {
               "perceived_negatively": true,
-              "word": "忘れやすい"
+              "word": "忘れっぽい"
           },
           {
               "perceived_negatively": true,
@@ -822,39 +822,39 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "浅薄な"
+              "word": "勝手気ままな"
           }
       ],
       "Conscientiousness_minus_Openness_minus": [
           {
               "perceived_negatively": false,
-              "word": "無鉄砲な"
+              "word": "型破りな"
           },
           {
               "perceived_negatively": true,
-              "word": "非論理的"
+              "word": "理屈に拘らない"
           },
           {
               "perceived_negatively": true,
-              "word": "未熟な"
+              "word": "子どもっぽい"
           },
           {
               "perceived_negatively": true,
-              "word": "無計画な"
+              "word": "ぶっつけ本番、出たとこ勝負の"
           },
           {
               "perceived_negatively": false,
-              "word": "怠慢な"
+              "word": "曖昧な"
           },
           {
               "perceived_negatively": true,
-              "word": "軽薄な"
+              "word": "浮ついたところのある"
           }
       ],
       "Conscientiousness_minus_Openness_plus": [
           {
               "perceived_negatively": false,
-              "word": "慣例に従わない"
+              "word": "慣例にとらわれない"
           },
           {
               "perceived_negatively": false,
@@ -868,17 +868,17 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "厳密な"
+              "word": "忠実な"
           },
           {
               "perceived_negatively": false,
-              "word": "柔軟性に欠ける"
+              "word": "剛直な"
           }
       ],
       "Conscientiousness_plus_Agreeableness_plus": [
           {
               "perceived_negatively": false,
-              "word": "頼みになる"
+              "word": "頼りになる"
           },
           {
               "perceived_negatively": false,
@@ -904,7 +904,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "強気の"
+              "word": "自信のある"
           },
           {
               "perceived_negatively": false,
@@ -916,7 +916,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "節約家"
+              "word": "やりくりがうまい"
           },
           {
               "perceived_negatively": false,
@@ -926,7 +926,7 @@ module.exports = {
       "Conscientiousness_plus_Extraversion_plus": [
           {
               "perceived_negatively": false,
-              "word": "野心家"
+              "word": "意欲的な"
           },
           {
               "perceived_negatively": false,
@@ -972,7 +972,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "制御されやすい"
+              "word": "統制された"
           },
           {
               "perceived_negatively": false,
@@ -986,7 +986,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "神経質な"
+              "word": "緊張しがちな"
           }
       ],
       "Conscientiousness_plus_Openness_minus": [
@@ -996,7 +996,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "紋切り型"
+              "word": "慣習を重んじる"
           }
       ],
       "Conscientiousness_plus_Openness_plus": [
@@ -1006,11 +1006,11 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "完全主義者"
+              "word": "完璧を追求する"
           },
           {
               "perceived_negatively": false,
-              "word": "勤勉"
+              "word": "勤勉な"
           },
           {
               "perceived_negatively": false,
@@ -1036,11 +1036,11 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "他人を警戒する"
+              "word": "人に用心深い"
           },
           {
               "perceived_negatively": true,
-              "word": "引きこもりがちな"
+              "word": "引っ込み思案な"
           },
           {
               "perceived_negatively": true,
@@ -1048,11 +1048,11 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "非社交的な"
+              "word": "社交が苦手な"
           },
           {
               "perceived_negatively": true,
-              "word": "陰気な"
+              "word": "心配そうな"
           },
           {
               "perceived_negatively": true,
@@ -1060,7 +1060,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "つんとしている"
+              "word": "超然とした"
           }
       ],
       "Extraversion_minus_Agreeableness_plus": [
@@ -1074,15 +1074,15 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "柔順な"
+              "word": "素直に対応する"
           },
           {
               "perceived_negatively": false,
-              "word": "小心物"
+              "word": "気が小さい"
           },
           {
               "perceived_negatively": false,
-              "word": "従順な"
+              "word": "適合力のある"
           },
           {
               "perceived_negatively": false,
@@ -1092,7 +1092,7 @@ module.exports = {
       "Extraversion_minus_Conscientiousness_minus": [
           {
               "perceived_negatively": true,
-              "word": "素直でない"
+              "word": "鵜呑みにしない"
           },
           {
               "perceived_negatively": true,
@@ -1100,21 +1100,21 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "不活発"
+              "word": "対応がゆっくりな"
           },
           {
               "perceived_negatively": true,
-              "word": "持続性がない"
+              "word": "持続力に欠ける"
           },
           {
               "perceived_negatively": true,
-              "word": "曖昧な"
+              "word": "あやふやな"
           }
       ],
       "Extraversion_minus_Conscientiousness_plus": [
           {
               "perceived_negatively": false,
-              "word": "自制している"
+              "word": "節度がある"
           },
           {
               "perceived_negatively": false,
@@ -1140,7 +1140,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "平静な"
+              "word": "落ち着いている"
           },
           {
               "perceived_negatively": false,
@@ -1156,7 +1156,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "素直"
+              "word": "素直な"
           }
       ],
       "Extraversion_minus_Neuroticism_plus": [
@@ -1170,21 +1170,21 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "秘密主義"
+              "word": "隠したがる"
           },
           {
               "perceived_negatively": true,
-              "word": "臆病な"
+              "word": "気の小さい"
           },
           {
               "perceived_negatively": false,
-              "word": "秘密主義"
+              "word": "隠したがる"
           }
       ],
       "Extraversion_minus_Openness_minus": [
           {
               "perceived_negatively": false,
-              "word": "憂鬱でいることが多い"
+              "word": "気分が沈みがちな"
           },
           {
               "perceived_negatively": true,
@@ -1192,19 +1192,19 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "冒険的でない"
+              "word": "冒険を好まない"
           },
           {
               "perceived_negatively": false,
-              "word": "受動的な"
+              "word": "受け身な"
           },
           {
               "perceived_negatively": true,
-              "word": "無感情な"
+              "word": "何事にも関心を持たない"
           },
           {
               "perceived_negatively": false,
-              "word": "すなおな"
+              "word": "素直な"
           }
       ],
       "Extraversion_minus_Openness_plus": [
@@ -1232,15 +1232,15 @@ module.exports = {
       "Extraversion_plus_Agreeableness_minus": [
           {
               "perceived_negatively": false,
-              "word": "独断的な"
+              "word": "自説を曲げない"
           },
           {
               "perceived_negatively": true,
-              "word": "力強い"
+              "word": "強引なところがある"
           },
           {
               "perceived_negatively": true,
-              "word": "横柄な"
+              "word": "支配力を追い求める"
           },
           {
               "perceived_negatively": true,
@@ -1256,7 +1256,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "悪知恵が働く"
+              "word": "抜け目のない"
           }
       ],
       "Extraversion_plus_Agreeableness_plus": [
@@ -1296,7 +1296,7 @@ module.exports = {
       "Extraversion_plus_Conscientiousness_minus": [
           {
               "perceived_negatively": false,
-              "word": "騒がしい"
+              "word": "ひどく陽気な"
           },
           {
               "perceived_negatively": false,
@@ -1304,7 +1304,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "自己顕示的な"
+              "word": "自己の主張に強い信念をもっている"
           },
           {
               "perceived_negatively": false,
@@ -1312,7 +1312,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "実証的な"
+              "word": "感情を表に出す"
           }
       ],
       "Extraversion_plus_Conscientiousness_plus": [
@@ -1326,11 +1326,11 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "しつこい"
+              "word": "粘り強い"
           },
           {
               "perceived_negatively": false,
-              "word": "野心家"
+              "word": "意欲的な"
           },
           {
               "perceived_negatively": false,
@@ -1340,7 +1340,7 @@ module.exports = {
       "Extraversion_plus_Neuroticism_minus": [
           {
               "perceived_negatively": false,
-              "word": "強気の"
+              "word": "自信のある"
           },
           {
               "perceived_negatively": false,
@@ -1348,37 +1348,37 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "自信家"
+              "word": "確信を持った"
           },
           {
               "perceived_negatively": false,
-              "word": "遠慮がない"
+              "word": "単刀直入な"
           },
           {
               "perceived_negatively": false,
-              "word": "勇敢な"
+              "word": "精神的に強い"
           },
           {
               "perceived_negatively": false,
-              "word": "勇士的な"
+              "word": "困難に立ち向かう"
           },
           {
               "perceived_negatively": false,
-              "word": "自己満足している"
+              "word": "自己に満足している"
           },
           {
               "perceived_negatively": false,
-              "word": "強壮な"
+              "word": "元気いっぱいな"
           },
           {
               "perceived_negatively": false,
-              "word": "強健な"
+              "word": "たくましい"
           }
       ],
       "Extraversion_plus_Neuroticism_plus": [
           {
               "perceived_negatively": false,
-              "word": "激しやすい"
+              "word": "熱くなりやすい"
           },
           {
               "perceived_negatively": true,
@@ -1386,29 +1386,29 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "浪費家"
+              "word": "ひどく気前が良い"
           },
           {
               "perceived_negatively": true,
-              "word": "移り気な"
+              "word": "気まぐれな"
           },
           {
               "perceived_negatively": false,
-              "word": "浮気性"
+              "word": "異性の気を引こうとする"
           }
       ],
       "Extraversion_plus_Openness_minus": [
           {
               "perceived_negatively": true,
-              "word": "冗長な"
+              "word": "言葉数が多い"
           },
           {
               "perceived_negatively": true,
-              "word": "不遠慮な"
+              "word": "めんどくさがりな"
           },
           {
               "perceived_negatively": true,
-              "word": "尊大な"
+              "word": "気取った"
           }
       ],
       "Extraversion_plus_Openness_plus": [
@@ -1434,25 +1434,25 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "日和見主義な"
+              "word": "機を見るに敏な"
           },
           {
               "perceived_negatively": false,
-              "word": "独立している"
+              "word": "自立している"
           }
       ],
       "Neuroticism_minus_Agreeableness_minus": [
           {
               "perceived_negatively": true,
-              "word": "感情的でない"
+              "word": "感情に流されない"
           },
           {
               "perceived_negatively": true,
-              "word": "鈍感な"
+              "word": "気配りが苦手な"
           },
           {
               "perceived_negatively": true,
-              "word": "無情な"
+              "word": "よそよそしい"
           },
           {
               "perceived_negatively": true,
@@ -1482,11 +1482,11 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "おもいやりのある"
+              "word": "思いやりのある"
           },
           {
               "perceived_negatively": false,
-              "word": "無批判的な"
+              "word": "批判することを遠慮する"
           },
           {
               "perceived_negatively": false,
@@ -1500,7 +1500,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "落ち着いている"
+              "word": "地味な"
           }
       ],
       "Neuroticism_minus_Conscientiousness_plus": [
@@ -1526,7 +1526,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "おちついている"
+              "word": "落ち着いている"
           },
           {
               "perceived_negatively": false,
@@ -1584,7 +1584,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "鈍感な"
+              "word": "気配りが苦手な"
           }
       ],
       "Neuroticism_minus_Openness_plus": [
@@ -1616,27 +1616,27 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "短気な"
+              "word": "熱くなりやすい"
           },
           {
               "perceived_negatively": true,
-              "word": "けんか好きの"
+              "word": "口論好きの"
           },
           {
               "perceived_negatively": true,
-              "word": "気短な"
+              "word": "性急な"
           },
           {
               "perceived_negatively": true,
-              "word": "気難しい"
+              "word": "ご機嫌斜めの"
           },
           {
               "perceived_negatively": true,
-              "word": "意地が悪い"
+              "word": "怒りっぽい"
           },
           {
               "perceived_negatively": true,
-              "word": "風変わりな"
+              "word": "奇妙な"
           }
       ],
       "Neuroticism_plus_Agreeableness_plus": [
@@ -1646,7 +1646,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "だまされやすい"
+              "word": "疑うことを知らない"
           },
           {
               "perceived_negatively": false,
@@ -1664,7 +1664,7 @@ module.exports = {
       "Neuroticism_plus_Conscientiousness_minus": [
           {
               "perceived_negatively": true,
-              "word": "生真面目すぎる"
+              "word": "何かをせずにいられない"
           },
           {
               "perceived_negatively": true,
@@ -1672,7 +1672,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "わがままな"
+              "word": "気ままな"
           },
           {
               "perceived_negatively": true,
@@ -1704,7 +1704,7 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "自分に自信がない"
+              "word": "自分に確信が持てない"
           },
           {
               "perceived_negatively": true,
@@ -1712,7 +1712,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "秘密主義"
+              "word": "秘密にしたがる"
           },
           {
               "perceived_negatively": true,
@@ -1720,11 +1720,11 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "否定主義の"
+              "word": "ものごとを否定的に捉える"
           },
           {
               "perceived_negatively": false,
-              "word": "自己批判的な"
+              "word": "自分に厳しい"
           }
       ],
       "Neuroticism_plus_Extraversion_plus": [
@@ -1738,15 +1738,15 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "浮気性"
+              "word": "異性の気を引こうとする"
           },
           {
               "perceived_negatively": true,
-              "word": "激しやすい"
+              "word": "熱くなりやすい"
           },
           {
               "perceived_negatively": false,
-              "word": "浪費家"
+              "word": "ひどく気前が良い"
           },
           {
               "perceived_negatively": true,
@@ -1756,11 +1756,11 @@ module.exports = {
       "Neuroticism_plus_Openness_minus": [
           {
               "perceived_negatively": false,
-              "word": "裏切られやすい"
+              "word": "すぐに慌ててしまう"
           },
           {
               "perceived_negatively": false,
-              "word": "すぐ腹が立つ"
+              "word": "つい腹を立てやすい"
           },
           {
               "perceived_negatively": false,
@@ -1784,23 +1784,23 @@ module.exports = {
       "Openness_minus_Agreeableness_minus": [
           {
               "perceived_negatively": true,
-              "word": "粗野な"
+              "word": "大雑把な"
           },
           {
               "perceived_negatively": true,
-              "word": "要領が悪い"
+              "word": "機転の利かない"
           },
           {
               "perceived_negatively": true,
-              "word": "ぶっきらぼうな"
+              "word": "素っ気ない"
           },
           {
               "perceived_negatively": true,
-              "word": "偏狭な"
+              "word": "心にゆとりがない"
           },
           {
               "perceived_negatively": true,
-              "word": "無感覚な"
+              "word": "情にほだされない"
           }
       ],
       "Openness_minus_Agreeableness_plus": [
@@ -1810,43 +1810,43 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "依存症の"
+              "word": "人に頼りがちなの"
           }
       ],
       "Openness_minus_Conscientiousness_minus": [
           {
               "perceived_negatively": true,
-              "word": "近視野的な"
+              "word": "目の前のことに専念する"
           },
           {
               "perceived_negatively": false,
-              "word": "無鉄砲な"
+              "word": "型破りな"
           },
           {
               "perceived_negatively": true,
-              "word": "非論理的"
+              "word": "理屈に拘らない"
           },
           {
               "perceived_negatively": true,
-              "word": "未熟な"
+              "word": "子どもっぽい"
           },
           {
               "perceived_negatively": true,
-              "word": "無計画な"
+              "word": "ぶっつけ本番、出たとこ勝負の"
           },
           {
               "perceived_negatively": false,
-              "word": "怠慢な"
+              "word": "曖昧な"
           },
           {
               "perceived_negatively": true,
-              "word": "軽薄な"
+              "word": "浮ついたところのある"
           }
       ],
       "Openness_minus_Conscientiousness_plus": [
           {
               "perceived_negatively": false,
-              "word": "紋切り型"
+              "word": "慣習を重んじる"
           },
           {
               "perceived_negatively": false,
@@ -1856,37 +1856,37 @@ module.exports = {
       "Openness_minus_Extraversion_minus": [
           {
               "perceived_negatively": false,
-              "word": "意外性のない"
+              "word": "平均的な"
           },
           {
               "perceived_negatively": true,
-              "word": "想像力に欠ける"
+              "word": "いたって普通な"
           },
           {
               "perceived_negatively": false,
-              "word": "憂鬱でいることが多い"
+              "word": "気分が沈みがちな"
           },
           {
               "perceived_negatively": true,
-              "word": "無感情な"
+              "word": "何事にも関心を持たない"
           },
           {
               "perceived_negatively": true,
-              "word": "冒険的でない"
+              "word": "冒険を好まない"
           }
       ],
       "Openness_minus_Extraversion_plus": [
           {
               "perceived_negatively": true,
-              "word": "冗長な"
+              "word": "言葉数が多い"
           },
           {
               "perceived_negatively": true,
-              "word": "不遠慮な"
+              "word": "めんどくさがりな"
           },
           {
               "perceived_negatively": true,
-              "word": "尊大な"
+              "word": "気取った"
           }
       ],
       "Openness_minus_Neuroticism_minus": [
@@ -1896,17 +1896,17 @@ module.exports = {
           },
           {
               "perceived_negatively": true,
-              "word": "鈍感な"
+              "word": "気配りが苦手な"
           }
       ],
       "Openness_minus_Neuroticism_plus": [
           {
               "perceived_negatively": false,
-              "word": "裏切られやすい"
+              "word": "すぐに慌ててしまう"
           },
           {
               "perceived_negatively": false,
-              "word": "すぐ腹が立つ"
+              "word": "つい腹を立てやすい"
           },
           {
               "perceived_negatively": false,
@@ -1924,7 +1924,7 @@ module.exports = {
           },
           {
               "perceived_negatively": false,
-              "word": "個人主義者"
+              "word": "個性的な"
           }
       ],
       "Openness_plus_Agreeableness_plus": [
@@ -1952,7 +1952,7 @@ module.exports = {
       "Openness_plus_Conscientiousness_minus": [
           {
               "perceived_negatively": false,
-              "word": "慣例に従わない"
+              "word": "慣例にとらわれない"
           },
           {
               "perceived_negatively": false,
@@ -2010,7 +2010,7 @@ module.exports = {
       "Openness_plus_Extraversion_plus": [
           {
               "perceived_negatively": false,
-              "word": "世俗的な"
+              "word": "世知に長けた"
           },
           {
               "perceived_negatively": false,
@@ -2076,23 +2076,23 @@ module.exports = {
       ],
       "Self-transcendence": [
           {
-              "Term": "他人の支援",
-              "LowDescription": "干渉されずに自分で物事に対処できると思われています",
+              "Term": "他人への支援",
+              "LowDescription": "人は干渉されずに自分で物事に対処できると思われています",
               "HighDescription": "自分のまわりの人々を世話することは重要であると考えます"
           },
           {
               "Term": "公平",
-              "LowDescription": "機会は自分で作っていくものと信じます",
+              "LowDescription": "人は自ら機会を作っていくものと信じます",
               "HighDescription": "社会正義と全ての人の平等を信じます"
           },
           {
               "Term": "社会正義",
-              "LowDescription": "機会は自分で作っていくものと信じます",
+              "LowDescription": "人は自ら機会を作っていくものと信じます",
               "HighDescription": "社会正義と全ての人の平等を信じます"
           },
           {
-              "Term": "均等",
-              "LowDescription": "機会は自分で作っていくものと信じます",
+              "Term": "平等",
+              "LowDescription": "人は自ら機会を作っていくものと信じます",
               "HighDescription": "社会正義と全ての人の平等を信じます"
           },
           {
@@ -2113,7 +2113,7 @@ module.exports = {
               "HighDescription": "規則は理由があって存在すると知っており、それらを破らないようにしています"
           },
           {
-              "Term": "謙遜",
+              "Term": "謙虚",
               "LowDescription": "何が正しいか、他人がどう思うかではなく、自分の信条で決定します",
               "HighDescription": "他人に従うことに価値を見出します"
           },
@@ -2123,20 +2123,20 @@ module.exports = {
               "HighDescription": "規則は理由があって存在すると知っており、それらを破らないようにしています"
           },
           {
-              "Term": "安全性",
-              "LowDescription": "目的を達成するためには安全性が犠牲になってもよいと信じます",
-              "HighDescription": "安全性とセキュリティはまもるべき重要なものであると信じます"
+              "Term": "セキュリティー",
+              "LowDescription": "目的を達成するためにはセキュリティーが犠牲になってもよいと信じます",
+              "HighDescription": "安全性とセキュリティーは守るべき重要なものであると信じます"
           },
           {
               "Term": "安全性",
               "LowDescription": "目的を達成するためには安全性が犠牲になってもよいと信じます",
-              "HighDescription": "安全性とセキュリティはまもるべき重要なものであると信じます"
+              "HighDescription": "安全性とセキュリティは守るべき重要なものであると信じます"
           }
       ],
       "Openness-to-change": [
           {
-              "Term": "独立心",
-              "LowDescription": "他人が自分の行動の指揮をとることを歓迎します",
+              "Term": "自主性",
+              "LowDescription": "他人が自分の行動の指揮をとることを受け入れます",
               "HighDescription": "最高の成果が得られるよう、自分自身で目標を設定する傾向があります"
           },
           {
@@ -2155,35 +2155,35 @@ module.exports = {
               "HighDescription": "新しく刺激的な経験をすることを熱望しています"
           },
           {
-              "Term": "自主主導性",
-              "LowDescription": "他人が自分の行動の指揮をとることを歓迎します",
+              "Term": "主体性",
+              "LowDescription": "他人が自分の行動の指揮をとることを受け入れます",
               "HighDescription": "最高の成果が得られるよう、自分自身で目標を設定する傾向があります"
           },
           {
               "Term": "自由",
-              "LowDescription": "他人が自分の行動の指揮をとることを歓迎します",
+              "LowDescription": "他人が自分の行動の指揮をとることを受け入れます",
               "HighDescription": "最高の成果が得られるよう、自分自身で目標を設定する傾向があります"
           }
       ],
       "Self-enhancement": [
           {
               "Term": "成功すること",
-              "LowDescription": "自分の才能を引き立てるかどうかにかかわらず自分の目標を設定します",
+              "LowDescription": "自分の才能を誇示することにあまり拘らず意思決定します",
               "HighDescription": "自分自身を向上させ、自分が有能な人であることを実証する機会を探しています"
           },
           {
-              "Term": "社会的身分の獲得",
-              "LowDescription": "社会的身分に満足していて、それ以上を強くは望んでいません",
-              "HighDescription": "自分のステータスと世間体を向上するために相当な努力を行います"
+              "Term": "社会的地位の獲得",
+              "LowDescription": "社会的地位に満足していて、それ以上を強くは望んでいません",
+              "HighDescription": "自分の地位と世間体を向上するために相当な努力を行います"
           },
           {
               "Term": "野心",
-              "LowDescription": "社会的身分に満足していて、それ以上を強くは望んでいません",
-              "HighDescription": "ゴールへつき進むことが重要であると感じます"
+              "LowDescription": "社会的地位に満足していて、それ以上を強くは望んでいません",
+              "HighDescription": "ゴールへ突き進むことが重要であると感じます"
           },
           {
               "Term": "大成功",
-              "LowDescription": "自分の才能を引き立てるかどうかにかかわらず自分の目標を設定します",
+              "LowDescription": "自分の才能を誇示することにあまり拘らず意思決定します",
               "HighDescription": "自分自身を向上させ、自分が有能な人であることを実証する機会を探しています"
           }
       ]
