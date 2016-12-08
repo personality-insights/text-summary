@@ -1,0 +1,2174 @@
+{
+  "facets": {
+    "facet_intellect": {
+      "LowTerm": "Concreto",
+      "HighDescription": "Está abierto a nuevas ideas, le intrigan y ama explorarlas",
+      "HighTerm": "Filosófico",
+      "LowDescription": "Prefiere lidiar con el mundo tal cual es, raramente considerando ideas abstractas",
+      "Big5": "big5_openness"
+    },
+    "facet_gregariousness": {
+      "LowTerm": "Independiente",
+      "HighDescription": "Disfruta estando en compañía de otros",
+      "HighTerm": "Sociable",
+      "LowDescription": "Tiene un fuerte deseo de tener tiempo para usted mismo",
+      "Big5": "big5_extraversion"
+    },
+    "facet_achievement_striving": {
+      "LowTerm": "Una persona satisfecha",
+      "HighDescription": "Se propone grandes metas y trabaja duro para alcanzarlas",
+      "HighTerm": "Una persona motivada",
+      "LowDescription": "Está conforme con sus logros y no siente la necesidad de ponerse metas más ambiciosas",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_depression": {
+      "LowTerm": "Una persona satisfecha",
+      "HighDescription": "Piensa bastante seguido en las cosas con las que está disconforme",
+      "HighTerm": "Melancólico",
+      "LowDescription": "Generalmente se acepta a usted mismo tal cual es",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_liberalism": {
+      "LowTerm": "Respetuoso de la autoridad",
+      "HighDescription": "Prefiere desafiar a la autoridad y  a los valores tradicionales para lograr cambios positivos",
+      "HighTerm": "Desafiante ante la autoridad",
+      "LowDescription": "Prefiere seguir tradiciones para mantener una sensación de estabilidad",
+      "Big5": "big5_openness"
+    },
+    "facet_sympathy": {
+      "LowTerm": "Una persona de gran fortaleza",
+      "HighDescription": "Siente lo que otros sienten y es compasivo con ellos",
+      "HighTerm": "Empático",
+      "LowDescription": "Cree que las personas deberían confiar más en sí mismos que en otras personas",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_imagination": {
+      "LowTerm": "Una persona con los pies en la tierra",
+      "HighDescription": "Su imaginación vuela libre",
+      "HighTerm": "Imaginativo",
+      "LowDescription": "Prefiere hechos antes que la fantasía",
+      "Big5": "big5_openness"
+    },
+    "facet_self_discipline": {
+      "LowTerm": "Intermitente",
+      "HighDescription": "Puede hacer frente y llevar a cabo tareas difíciles",
+      "HighTerm": "Persistente",
+      "LowDescription": "Le da trabajo llevar adelante tareas difíciles por un largo periodo de tiempo",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_assertiveness": {
+      "LowTerm": "Callado",
+      "HighDescription": "Tiende a expresarse y a hacerse cargo de las situaciones, y se encuentra cómodo liderando grupos",
+      "HighTerm": "Asertivo",
+      "LowDescription": "Prefiere escuchar antes que hablar, especialmente en situaciones de grupo",
+      "Big5": "big5_extraversion"
+    },
+    "facet_cheerfulness": {
+      "LowTerm": "Solemne",
+      "HighDescription": "Es una persona alegre y comparte esa alegría con el mundo",
+      "HighTerm": "Alegre",
+      "LowDescription": "Generalmente es serio y no hace muchas bromas",
+      "Big5": "big5_extraversion"
+    },
+    "facet_self_efficacy": {
+      "LowTerm": "Inseguro de sí misma",
+      "HighDescription": "Siente que tiene la habilidad de triunfar en las tareas que se propone realizar",
+      "HighTerm": "Seguro de sí mismo",
+      "LowDescription": "Frecuentemente duda acerca de su habilidad para alcanzar sus metas",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_morality": {
+      "LowTerm": "Una persona comprometida",
+      "HighDescription": "Piensa que está mal tomar ventaja de los demás para avanzar",
+      "HighTerm": "Intransigente",
+      "LowDescription": "Utiliza cualquier medio posible para conseguir lo que quiere y está cómodo con ello",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_anxiety": {
+      "LowTerm": "Seguro de sí mismo",
+      "HighDescription": "Tiende a preocuparse acerca de las cosas que podrían pasar",
+      "HighTerm": "Propenso a preocuparse",
+      "LowDescription": "Tiende a sentirse tranquilo y a confiar en sí mismo",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_altruism": {
+      "LowTerm": "Individualista",
+      "HighDescription": "Se siente realizado ayudando a otros y dejará sus cosas de lado para hacerlo",
+      "HighTerm": "Altruista",
+      "LowDescription": "Está más enfocado en cuidar de usted mismo que en dedicar tiempo a otras personas",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_self_consciousness": {
+      "LowTerm": "Confiado",
+      "HighDescription": "Es sensible a lo que las demás personas podrían estar pensando acerca de usted",
+      "HighTerm": "Consciente de sí mismo",
+      "LowDescription": "Es difícil de avergonzar y confía en sí mismo la mayor parte del tiempo",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_vulnerability": {
+      "LowTerm": "Una persona que mantiene la calma bajo presión",
+      "HighDescription": "Se abruma fácilmente en situaciones de estrés",
+      "HighTerm": "Susceptible al estrés",
+      "LowDescription": "Maneja eventos inesperados con calma y efectivamente",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_trust": {
+      "LowTerm": "Cuidadoso con los demás",
+      "HighDescription": "Cree lo mejor de los demás y confía fácilmente en las personas",
+      "HighTerm": "Una persona que confía en los demás",
+      "LowDescription": "Se cuida de las intenciones de los demás y no confía fácilmente",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_orderliness": {
+      "LowTerm": "Desestructurado",
+      "HighDescription": "Siente una fuerte necesidad de mantener una vida estructurada",
+      "HighTerm": "Organizado",
+      "LowDescription": "No le dedica mucho tiempo a organizarse en su vida diaria",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_friendliness": {
+      "LowTerm": "Reservado",
+      "HighDescription": "Hace amigos fácilmente y se siente cómodo estando con otras personas",
+      "HighTerm": "Extrovertido",
+      "LowDescription": "Es una persona reservada y no deja a muchas personas entrar",
+      "Big5": "big5_extraversion"
+    },
+    "facet_modesty": {
+      "LowTerm": "Orgulloso",
+      "HighDescription": "Se siente cómodo siendo el centro de atención",
+      "HighTerm": "Modesto",
+      "LowDescription": "Se tiene una estima alta, se encuentra satisfecho con quién es",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_activity_level": {
+      "LowTerm": "Relajado",
+      "HighDescription": "Disfruta llevar un ritmo de vida acelerado, una agenda ocupada con muchas actividades",
+      "HighTerm": "Energético",
+      "LowDescription": "Aprecia llevar un ritmo de vida relajado",
+      "Big5": "big5_extraversion"
+    },
+    "facet_cautiousness": {
+      "LowTerm": "Audaz",
+      "HighDescription": "Piensa cuidadosamente acerca de sus decisiones antes de tomarlas",
+      "HighTerm": "Prudente",
+      "LowDescription": "Prefiere tomar acción inmediatamente antes que invertir tiempo deliberando qué decisión tomar",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_dutifulness": {
+      "LowTerm": "Despreocupado",
+      "HighDescription": "Toma las reglas y las obligaciones seriamente, aún cuando son inconvenientes",
+      "HighTerm": "Una persona que cumple con su deber",
+      "LowDescription": "Hace lo que quiere sin importar las reglas y las obligaciones",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_artistic_interests": {
+      "LowTerm": "Una persona desinteresada por el arte",
+      "HighDescription": "Disfruta de la belleza y busca experiencias creativas",
+      "HighTerm": "Una persona que aprecia el arte",
+      "LowDescription": "Le interesan menos las actividades artísticas o creativas que la mayoría de las personas que participaron de nuestras encuestas",
+      "Big5": "big5_openness"
+    },
+    "facet_immoderation": {
+      "LowTerm": "Sereno",
+      "HighDescription": "Siente fuertemente sus deseos y es fácilmente tentado por ellos",
+      "HighTerm": "Hedonista",
+      "LowDescription": "Controla sus deseos, los cuales no son particularmente intensos",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_emotionality": {
+      "LowTerm": "Desapasionado",
+      "HighDescription": "Es consciente de sus sentimientos y de cómo expresarlos",
+      "HighTerm": "Emocionalmente consciente",
+      "LowDescription": "No piensa frecuentemente acerca de sus emociones ni las expresa abiertamente",
+      "Big5": "big5_openness"
+    },
+    "facet_adventurousness": {
+      "LowTerm": "Consistente",
+      "HighDescription": "Está deseoso de tener nuevas experiencias",
+      "HighTerm": "Audaz",
+      "LowDescription": "Disfruta de las rutinas familiares y prefiere no desviarse de ellas",
+      "Big5": "big5_openness"
+    },
+    "facet_anger": {
+      "LowTerm": "Apacible",
+      "HighDescription": "Tiene un temperamento fuerte, especialmente cuando las cosas no funcionan como espera",
+      "HighTerm": "Intenso",
+      "LowDescription": "Es difícil hacerle enojar",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_excitement_seeking": {
+      "LowTerm": "Una persona que busca la calma",
+      "HighDescription": "Le emociona tomar riesgos y se aburre si no se ve envuelto en mucha acción",
+      "HighTerm": "Una persona que busca la emoción",
+      "LowDescription": "Prefiere las actividades tranquilas, pacíficas y seguras",
+      "Big5": "big5_extraversion"
+    },
+    "facet_cooperation": {
+      "LowTerm": "Contrario",
+      "HighDescription": "Es fácil de complacer e intenta evitar posibles confrontaciones",
+      "HighTerm": "Acomodaticio",
+      "LowDescription": "No te importa contradecir a los demás",
+      "Big5": "big5_agreeableness"
+    }
+  },
+  "needs": {
+    "need_practicality": [
+      "eficiencia",
+      "practicidad",
+      "valor agregado",
+      "conveniencia"
+    ],
+    "need_curiosity": [
+      "descubrimiento",
+      "maestría",
+      "adquisición de conocimiento"
+    ],
+    "need_stability": [
+      "estabilidad",
+      "autenticidad",
+      "integridad"
+    ],
+    "need_self_expression": [
+      "auto-expresión",
+      "empoderamiento personal",
+      "fortaleza personal"
+    ],
+    "need_structure": [
+      "organización",
+      "franqueza",
+      "claridad",
+      "confiabilidad"
+    ],
+    "need_challenge": [
+      "prestigio",
+      "competencia",
+      "gloria"
+    ],
+    "need_liberty": [
+      "modernidad",
+      "expansión de posibilidades",
+      "poder escapar",
+      "espontaneidad",
+      "novedad"
+    ],
+    "need_harmony": [
+      "bienestar",
+      "cortesía",
+      "civilidad"
+    ],
+    "need_love": [
+      "afinidad",
+      "conexión"
+    ],
+    "need_excitement": [
+      "regocijo",
+      "anticipación",
+      "cebración"
+    ],
+    "need_ideal": [
+      "sofisticación",
+      "espiritualidad",
+      "superioridad",
+      "realización"
+    ],
+    "need_closeness": [
+      "pertenencia",
+      "nostalgia",
+      "intimidad"
+    ]
+  },
+  "phrases": {
+    "Experiences that give a sense of %s hold some appeal to you": "Le agradan las experiencias que le dan una sensación de %s",
+    "You consider %s to guide a large part of what you do": "Usted considera que %s lo guia en gran parte de lo que hace",
+    "You value both %s a bit": "Usted valora a %s un poco",
+    "And %s": "Y %s",
+    "And you are %s": "Y usted es %s",
+    "a bit %s": "un poco %s",
+    "can be perceived as %s": "puede ser percibido como %s",
+    "You are relatively unconcerned with both %s and %s": "Usted es relativamente indiferente con %s y %s",
+    "You are %s and %s": "Usted es %s y %s",
+    "You value both %s and %s a bit": "Usted valora a %s y %s un poco",
+    "You don't find %s to be particularly motivating for you": "Usted no encuentra a %s particularmente motivante para usted",
+    "You are %s": "Usted es %s",
+    "You are %s, %s and %s": "Usted es %s, %s y %s",
+    "You are motivated to seek out experiences that provide a strong feeling of %s": "Está motivado a buscar experiencias que lo provean de una fuerte sensación de %s",
+    "Experiences that make you feel high %s are generally unappealing to you": "No le agradan las experiencias que le dan una gran sensación de %s",
+    "You don't find either %s or %s to be particularly motivating for you": "Usted no encuentra a %s o %s particularmente motivantes para usted",
+    "You are relatively unconcerned with %s": "Usted es relativamente indiferente con %s",
+    "somewhat %s": "algo %s",
+    "Your choices are driven by a desire for %s": "Sus elecciones están determinadas por un deseo de %s",
+    "You consider both %s and %s to guide a large part of what you do": "Usted considera que %s y %s lo guian en gran parte de lo que hace"
+  },
+  "traits": {
+    "big5_conscientiousness_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "inflexible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "estricto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "rígido"
+      }
+    ],
+    "big5_neuroticism_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "guardado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "irritable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inseguro"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "pesimista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "reservado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "temeroso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "negativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "auto-crítico"
+      }
+    ],
+    "big5_agreeableness_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "insensible"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco afectuoso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desapasionado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "una persona sin emociones"
+      }
+    ],
+    "big5_agreeableness_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "sentimental"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cariñoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tierno"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "apasionado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "romántico"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "informal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "de bajo perfil"
+      }
+    ],
+    "big5_agreeableness_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "sobrio"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "modesto"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "confiable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "responsable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "seguro"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "educado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "considerado"
+      }
+    ],
+    "big5_agreeableness_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "obstinado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "abrupto"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "crudo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "combativo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "duro"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "astuto"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "manipulador"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "hosco"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "taimado"
+      }
+    ],
+    "big5_neuroticism_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "irritable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "fastidioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "aprensivo"
+      }
+    ],
+    "big5_openness_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "simple"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "dependiente"
+      }
+    ],
+    "big5_neuroticism_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "imperturbable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "insensible"
+      }
+    ],
+    "big5_agreeableness_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "desconsiderado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "descortés"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desconfiado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco cooperativo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "irreflexivo"
+      }
+    ],
+    "big5_extraversion_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "activo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "competitivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "persistente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "ambicioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "decidido"
+      }
+    ],
+    "big5_agreeableness_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "estricto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "rígido"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "duro"
+      }
+    ],
+    "big5_neuroticism_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "paciente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "relajado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "poco exigente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "realista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "optimista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "modesto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "poco crítico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "poco pretencioso"
+      }
+    ],
+    "big5_openness_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "predecible"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco imaginativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sombrío"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "apático"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco aventurero"
+      }
+    ],
+    "big5_extraversion_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "terco"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "vigoroso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "dominador"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "presumido"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "mandón"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "dominante"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "astuto"
+      }
+    ],
+    "big5_neuroticism_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "temperamental"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "irritable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "peleador"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impaciente"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "gruñón"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "malhumorado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "irritable"
+      }
+    ],
+    "big5_neuroticism_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "excitable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "verborrágico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "coqueto"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "explosivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "extravagante"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "volátil"
+      }
+    ],
+    "big5_agreeableness_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "tosco"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "una persona sin tacto"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "brusco"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "cerrado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "áspero"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "implacable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco caritativo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "vengativo"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "poco pretencioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "modesto"
+      }
+    ],
+    "big5_agreeableness_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "amistoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "una persona con tacto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "diplomático"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "profundo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "idealista"
+      }
+    ],
+    "big5_agreeableness_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "crítico"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "egoísta"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "de mal genio"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "antagonista"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "gruñón"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "amargado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desagradable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "exigente"
+      }
+    ],
+    "big5_openness_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "imperturbable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "insensible"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "sofisticado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "perfeccionista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "industrioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "digno"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "refinado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "culto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "previsor"
+      }
+    ],
+    "big5_agreeableness_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "perspicaz"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "excéntrico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "individualista"
+      }
+    ],
+    "big5_neuroticism_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "excitable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "apasionado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensual"
+      }
+    ],
+    "big5_neuroticism_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "sentido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "versátil"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "creativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "intelectual"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "perspicaz"
+      }
+    ],
+    "big5_openness_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "convencional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tradicional"
+      }
+    ],
+    "big5_extraversion_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "verborrágico"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inescrupuloso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "pomposo"
+      }
+    ],
+    "big5_extraversion_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "una persona guiada por su propia consciencia y valores"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "introspectivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "pensativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "contemplativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "introspectivo"
+      }
+    ],
+    "big5_openness_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "cortoplacista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "temerario"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "ilógico"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inmaduro"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "azaroso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "laxo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "irrespetuoso"
+      }
+    ],
+    "big5_extraversion_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "tranquilo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sosegado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "plácido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "imparcial"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "modesto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "condescendiente"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "tradicional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "convencional"
+      }
+    ],
+    "big5_openness_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "creativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "intelectual"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "perspicaz"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "versátil"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "inventivo"
+      }
+    ],
+    "big5_agreeableness_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "conmovible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "agradable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "servicial"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "humilde"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "indulgente"
+      }
+    ],
+    "big5_extraversion_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "indirecto"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "débil"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "perezoso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco persistente"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "vago"
+      }
+    ],
+    "big5_openness_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "analítico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "perceptivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "informativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "grandilocuente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "digno"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "culto"
+      }
+    ],
+    "big5_openness_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "verborrágico"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inescrupuloso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "pomposo"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "arrebatado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco cooperativo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco fiable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desconfiado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "irreflexivo"
+      }
+    ],
+    "big5_agreeableness_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "generoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "agradable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tolerante"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "pacífico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "flexible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "fácil de tratar"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "justo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "caritativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "confiable"
+      }
+    ],
+    "big5_openness_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "perspicaz"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "excéntrico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "individualista"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "ambicioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "alerta"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "firme"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "decidido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "competitivo"
+      }
+    ],
+    "big5_openness_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "idealista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "diplomático"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "profundo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "una persona con tacto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "amistoso"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "temerario"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "ilógico"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inmaduro"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "azaroso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "laxo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "indisciplinado"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "detallista"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "excitable"
+      }
+    ],
+    "big5_neuroticism_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "inconsciente de si mismo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "incansable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "infatigable"
+      }
+    ],
+    "big5_openness_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "ordinario"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "sin tacto"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "brusco"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "cerrado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "duro"
+      }
+    ],
+    "big5_neuroticism_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "emotivo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "crédulo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cariñoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "blando"
+      }
+    ],
+    "big5_extraversion_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "pacífico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "humilde"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sumiso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tímido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "obediente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "ingenuo"
+      }
+    ],
+    "big5_agreeableness_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "efervescente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "alegre"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "amistoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "alegre"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "jovial"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "jocoso"
+      }
+    ],
+    "big5_openness_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "mundano"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "exagerado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "elocuente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "inquisitivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "intenso"
+      }
+    ],
+    "big5_extraversion_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "sombrío"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "manso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco aventurero"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "pasivo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "apático"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "dócil"
+      }
+    ],
+    "big5_extraversion_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "moderado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "serio"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "discreto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cauteloso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "principista"
+      }
+    ],
+    "big5_neuroticism_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "modesto"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco excitable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "plácido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tranquilo"
+      }
+    ],
+    "big5_extraversion_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "explosivo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "verborrágico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "extravagante"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "volátil"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "coqueto"
+      }
+    ],
+    "big5_extraversion_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "expresivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cándido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "dramático"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "espontáneo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "ingenioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "oportunista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "independiente"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "poco convencional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "peculiar"
+      }
+    ],
+    "big5_extraversion_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "escéptico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cauto con los demás"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "solitario"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco comunicativo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "antisocial"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "sombrío"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desinteresado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "apartado"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "atolondrado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inconsistente"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "errático"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "olvidadizo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impulsivo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "frívolo"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "minucioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "estable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "consistente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "disciplinado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "lógico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "decidido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "controlado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "conciso"
+      }
+    ],
+    "big5_openness_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "irritable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "fastidioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "aprensivo"
+      }
+    ],
+    "big5_agreeableness_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "dependiente"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "simple"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "cauto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "seguro"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "exacto"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "formal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "ahorrativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "principista"
+      }
+    ],
+    "big5_agreeableness_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "servicial"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cooperativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "considerado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "respetuoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cortés"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensato"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "atento"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "considerado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "leal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "moral"
+      }
+    ],
+    "big5_neuroticism_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "racional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "objetivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "estable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "lógico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "decidido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "preparado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "conciso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "exhaustivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "económico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "disciplinado"
+      }
+    ],
+    "big5_extraversion_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "confiado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "audaz"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "seguro"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "desinhibido"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "valiente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "valiente"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "una persona satisfecha de si misma"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "vigoroso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "fuerte"
+      }
+    ],
+    "big5_agreeableness_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "cínico"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "cauto con los demás"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "solitario"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desapegado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impersonal"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "sombrío"
+      }
+    ],
+    "big5_neuroticism_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "informal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "de perfil bajo"
+      }
+    ],
+    "big5_neuroticism_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "poco emocional"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "insensible"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco cariñoso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desapasionado"
+      }
+    ],
+    "big5_extraversion_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "desconfiado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "pesimista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "reservado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "cobarde"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "callado"
+      }
+    ],
+    "big5_openness_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "introspectivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "meditativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "contemplativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "introspectivo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "pensativo"
+      }
+    ],
+    "big5_extraversion_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "bullicioso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "travieso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "exhibicionista"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "gregario"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "demostrativo"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "revoltoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "bullicioso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "temerario"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "tumultuoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "demostrativo"
+      }
+    ],
+    "big5_openness_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "apasionado"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "excitable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensual"
+      }
+    ],
+    "big5_extraversion_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "social"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "enérgico"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "entusiasta"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "comunicativo"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "vibrante"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "espirituoso"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "magnético"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "entusiasta"
+      }
+    ],
+    "big5_neuroticism_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "compulsivo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inquisitivo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "desenfrenado"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "olvidadizo"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impulsivo"
+      }
+    ],
+    "big5_openness_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "poco convencional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "peculiar"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "indeciso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "una persona sin propósito"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "una persona sin carácter"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "una persona sin compromiso"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "poco ambicioso"
+      }
+    ],
+    "big5_neuroticism_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "detallista"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "excitable"
+      }
+    ]
+  },
+  "values": {
+    "value_self_transcendence": [
+      {
+        "Term": "Ayudar a los demás",
+        "LowDescription": "Cree que las personas pueden encargarse de sus propios asuntos sin interferencia",
+        "HighDescription": "Cree que es importante cuidar de las personas que lo rodean"
+      },
+      {
+        "Term": "La justicia",
+        "LowDescription": "Cree que son las personas crean sus oportunidades",
+        "HighDescription": "Cree en la justicia social y la igualdad para todos"
+      },
+      {
+        "Term": "La justicia social",
+        "LowDescription": "Cree que son las personas crean sus oportunidades",
+        "HighDescription": "Cree en la justicia social y la igualdad para todos"
+      },
+      {
+        "Term": "La igualdad",
+        "LowDescription": "Cree que son las personas crean sus oportunidades",
+        "HighDescription": "Cree en la justicia social y la igualdad para todos"
+      },
+      {
+        "Term": "El servicio comunitario",
+        "LowDescription": "Cree que las personas pueden encargarse de sus propios asuntos sin interferencia",
+        "HighDescription": "Cree que es importante cuidar de las personas que lo rodean"
+      }
+    ],
+    "value_hedonism": [
+      {
+        "Term": "Disfrutar de la vida",
+        "LowDescription": "Prefiere actividades con un propósito más grande que el sólo deleite personal",
+        "HighDescription": "Tiene gran motivación por disfrutar la vida en su plenitud"
+      }
+    ],
+    "value_conservation": [
+      {
+        "Term": "Las tradiciones",
+        "LowDescription": "Le importa más seguir su propio camino que seguir el camino de otros",
+        "HighDescription": "Tiene mucho respeto por los grupos a los que pertenece y sigue su guía"
+      },
+      {
+        "Term": "La armonía",
+        "LowDescription": "Decide qué es lo correcto basado en sus creencias, no en lo que la gente piensa",
+        "HighDescription": "Cree que las reglas existen por una razón y nunca intenta trasgredirlas"
+      },
+      {
+        "Term": "La humildad",
+        "LowDescription": "Decide qué es lo correcto basado en sus creencias, no en lo que la gente piensa",
+        "HighDescription": "Ve valor en deferir a otros"
+      },
+      {
+        "Term": "Las normas sociales",
+        "LowDescription": "Decide qué es lo correcto basado en sus creencias, no en lo que la gente piensa",
+        "HighDescription": "Cree que las reglas existen por una razón y nunca intenta trasgredirlas"
+      },
+      {
+        "Term": "La seguridad",
+        "LowDescription": "Prefiere la seguridad a costa de dejar a un lado sus metas",
+        "HighDescription": "Cree que es importante salvaguardar la seguridad"
+      },
+      {
+        "Term": "La seguridad",
+        "LowDescription": "Prefiere estar seguro a costa de dejar a un lado sus metas",
+        "HighDescription": "Cree que es importante salvaguardar la seguridad"
+      }
+    ],
+    "value_self_enhancement": [
+      {
+        "Term": "Alcanzar el éxito",
+        "LowDescription": "Toma decisiones sin considerar cómo muestran sus talentos",
+        "HighDescription": "Busca oportunidades para autosuperase y para demostrar que es una persona capaz"
+      },
+      {
+        "Term": "Mejorar su estatus social",
+        "LowDescription": "Está conforme con su estatus social y no siente necesidad de mejorarlo",
+        "HighDescription": "Se esfuerza considerablemente para mejorar su estatus e imagen pública"
+      },
+      {
+        "Term": "La ambición",
+        "LowDescription": "Está conforme con su estatus social y no siente necesidad de mejorarlo",
+        "HighDescription": "Siente que es importante avanzar para alcanzar metas"
+      },
+      {
+        "Term": "Los grandes logros",
+        "LowDescription": "Toma decisiones sin considerar cómo muestran sus talentos",
+        "HighDescription": "Busca oportunidades para autosuperase y para demostrar que es una persona capaz"
+      }
+    ],
+    "value_openness_to_change": [
+      {
+        "Term": "Ser independiente",
+        "LowDescription": "Recibe de buena manera que otros dirijan sus actividades",
+        "HighDescription": "Le gusta establecer sus propias metas para decidir cómo alcanzarlas mejor"
+      },
+      {
+        "Term": "La emoción",
+        "LowDescription": "Se apega a las cosas que conoce antes que arriesgarse a probar algo nuevo y riesgoso",
+        "HighDescription": "Está ansioso por buscar experiencias nuevas y emocionantes"
+      },
+      {
+        "Term": "La creatividad",
+        "LowDescription": "Se apega a las cosas que conoce antes que arriesgarse a probar algo nuevo y riesgoso",
+        "HighDescription": "Está ansioso por buscar experiencias nuevas y emocionantes"
+      },
+      {
+        "Term": "La curiosidad",
+        "LowDescription": "Se apega a las cosas que conoce antes que arriesgarse a probar algo nuevo y riesgoso",
+        "HighDescription": "Está ansioso por buscar experiencias nuevas y emocionantes"
+      },
+      {
+        "Term": "La autonomía",
+        "LowDescription": "Recibe de buena manera que otros dirijan sus actividades",
+        "HighDescription": "Le gusta establecer sus propias metas para decidir cómo alcanzarlas mejor"
+      },
+      {
+        "Term": "La libertad",
+        "LowDescription": "Recibe de buena manera que otros dirijan sus actividades",
+        "HighDescription": "Le gusta establecer sus propias metas para decidir cómo alcanzarlas mejor"
+      }
+    ]
+  }
+}

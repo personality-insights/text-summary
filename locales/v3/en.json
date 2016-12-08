@@ -1,0 +1,2175 @@
+{
+  "facets": {
+    "facet_intellect": {
+      "LowTerm": "Concrete",
+      "HighDescription": "You are open to and intrigued by new ideas and love to explore them",
+      "HighTerm": "Philosophical",
+      "LowDescription": "You prefer dealing with the world as it is, rarely considering abstract ideas",
+      "Big5": "big5_openness"
+    },
+    "facet_gregariousness": {
+      "LowTerm": "Independent",
+      "HighDescription": "You enjoy being in the company of others",
+      "HighTerm": "Sociable",
+      "LowDescription": "You have a strong desire to have time to yourself",
+      "Big5": "big5_extraversion"
+    },
+    "facet_achievement_striving": {
+      "LowTerm": "Content",
+      "HighDescription": "You have high goals for yourself and work hard to achieve them",
+      "HighTerm": "Driven",
+      "LowDescription": "You are content with your level of accomplishment and do not feel the need to set ambitious goals",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_depression": {
+      "LowTerm": "Content",
+      "HighDescription": "You think quite often about the things you are unhappy about",
+      "HighTerm": "Melancholy",
+      "LowDescription": "You are generally comfortable with yourself as you are",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_sympathy": {
+      "LowTerm": "Hardened",
+      "HighDescription": "You feel what others feel and are compassionate towards them",
+      "HighTerm": "Empathetic",
+      "LowDescription": "You think that people should generally rely more on themselves than on other people",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_imagination": {
+      "LowTerm": "Down-to-earth",
+      "HighDescription": "You have a wild imagination",
+      "HighTerm": "Imaginative",
+      "LowDescription": "You prefer facts over fantasy",
+      "Big5": "big5_openness"
+    },
+    "facet_self_discipline": {
+      "LowTerm": "Intermittent",
+      "HighDescription": "You can tackle and stick with tough tasks",
+      "HighTerm": "Persistent",
+      "LowDescription": "You have a hard time sticking with difficult tasks for a long period of time",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_assertiveness": {
+      "LowTerm": "Demure",
+      "HighDescription": "You tend to speak up and take charge of situations, and you are comfortable leading groups",
+      "HighTerm": "Assertive",
+      "LowDescription": "You prefer to listen than to talk, especially in group situations",
+      "Big5": "big5_extraversion"
+    },
+    "facet_cheerfulness": {
+      "LowTerm": "Solemn",
+      "HighDescription": "You are a joyful person and share that joy with the world",
+      "HighTerm": "Cheerful",
+      "LowDescription": "You are generally serious and do not joke much",
+      "Big5": "big5_extraversion"
+    },
+    "facet_self_efficacy": {
+      "LowTerm": "Self-doubting",
+      "HighDescription": "You feel you have the ability to succeed in the tasks you set out to do",
+      "HighTerm": "Self-assured",
+      "LowDescription": "You frequently doubt your ability to achieve your goals",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_morality": {
+      "LowTerm": "Compromising",
+      "HighDescription": "You think it is wrong to take advantage of others to get ahead",
+      "HighTerm": "Uncompromising",
+      "LowDescription": "You are comfortable using every trick in the book to get what you want",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_liberalism": {
+      "LowTerm": "Respectful of authority",
+      "HighDescription": "You prefer to challenge authority and traditional values to help bring about positive changes",
+      "HighTerm": "Authority-challenging",
+      "LowDescription": "You prefer following with tradition in order to maintain a sense of stability",
+      "Big5": "big5_openness"
+    },
+    "facet_altruism": {
+      "LowTerm": "Self-focused",
+      "HighDescription": "You feel fulfilled when helping others, and will go out of your way to do so",
+      "HighTerm": "Altruistic",
+      "LowDescription": "You are more concerned with taking care of yourself than taking time for others",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_self_consciousness": {
+      "LowTerm": "Confident",
+      "HighDescription": "You are sensitive about what others might be thinking about you",
+      "HighTerm": "Self-conscious",
+      "LowDescription": "You are hard to embarrass and are self-confident most of the time",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_vulnerability": {
+      "LowTerm": "Calm under pressure",
+      "HighDescription": "You are easily overwhelmed in stressful situations",
+      "HighTerm": "Susceptible to stress",
+      "LowDescription": "You handle unexpected events calmly and effectively",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_trust": {
+      "LowTerm": "Cautious of others",
+      "HighDescription": "You believe the best in others and trust people easily",
+      "HighTerm": "Trusting of others",
+      "LowDescription": "You are wary of other people's intentions and do not trust easily",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_orderliness": {
+      "LowTerm": "Unstructured",
+      "HighDescription": "You feel a strong need for structure in your life",
+      "HighTerm": "Organized",
+      "LowDescription": "You do not make a lot of time for organization in your daily life",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_anxiety": {
+      "LowTerm": "Self-assured",
+      "HighDescription": "You tend to worry about things that might happen",
+      "HighTerm": "Prone to worry",
+      "LowDescription": "You tend to feel calm and self-assured",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_friendliness": {
+      "LowTerm": "Reserved",
+      "HighDescription": "You make friends easily and feel comfortable around other people",
+      "HighTerm": "Outgoing",
+      "LowDescription": "You are a private person and don't let many people in",
+      "Big5": "big5_extraversion"
+    },
+    "facet_modesty": {
+      "LowTerm": "Proud",
+      "HighDescription": "You are uncomfortable being the center of attention",
+      "HighTerm": "Modest",
+      "LowDescription": "You hold yourself in high regard, satisfied with who you are",
+      "Big5": "big5_agreeableness"
+    },
+    "facet_activity_level": {
+      "LowTerm": "Laid-back",
+      "HighDescription": "You enjoy a fast-paced, busy schedule with many activities",
+      "HighTerm": "Energetic",
+      "LowDescription": "You appreciate a relaxed pace in life",
+      "Big5": "big5_extraversion"
+    },
+    "facet_cautiousness": {
+      "LowTerm": "Bold",
+      "HighDescription": "You carefully think through decisions before making them",
+      "HighTerm": "Deliberate",
+      "LowDescription": "You would rather take action immediately than spend time deliberating making a decision",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_dutifulness": {
+      "LowTerm": "Carefree",
+      "HighDescription": "You take rules and obligations seriously, even when they're inconvenient",
+      "HighTerm": "Dutiful",
+      "LowDescription": "You do what you want, disregarding rules and obligations",
+      "Big5": "big5_conscientiousness"
+    },
+    "facet_artistic_interests": {
+      "LowTerm": "Unconcerned with art",
+      "HighDescription": "You enjoy beauty and seek out creative experiences",
+      "HighTerm": "Appreciative of art",
+      "LowDescription": "You are less concerned with artistic or creative activities than most people who participated in our surveys",
+      "Big5": "big5_openness"
+    },
+    "facet_immoderation": {
+      "LowTerm": "Self-controlled",
+      "HighDescription": "You feel your desires strongly and are easily tempted by them",
+      "HighTerm": "Hedonistic",
+      "LowDescription": "You have control over your desires, which are not particularly intense",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_emotionality": {
+      "LowTerm": "Dispassionate",
+      "HighDescription": "You are aware of your feelings and how to express them",
+      "HighTerm": "Emotionally aware",
+      "LowDescription": "You do not frequently think about or openly express your emotions",
+      "Big5": "big5_openness"
+    },
+    "facet_adventurousness": {
+      "LowTerm": "Consistent",
+      "HighDescription": "You are eager to experience new things",
+      "HighTerm": "Adventurous",
+      "LowDescription": "You enjoy familiar routines and prefer not to deviate from them",
+      "Big5": "big5_openness"
+    },
+    "facet_anger": {
+      "LowTerm": "Mild-tempered",
+      "HighDescription": "You have a fiery temper, especially when things do not go your way",
+      "HighTerm": "Fiery",
+      "LowDescription": "It takes a lot to get you angry",
+      "Big5": "big5_neuroticism"
+    },
+    "facet_excitement_seeking": {
+      "LowTerm": "Calm-seeking",
+      "HighDescription": "You are excited by taking risks and feel bored without lots of action going on",
+      "HighTerm": "Excitement-seeking",
+      "LowDescription": "You prefer activities that are quiet, calm, and safe",
+      "Big5": "big5_extraversion"
+    },
+    "facet_cooperation": {
+      "LowTerm": "Contrary",
+      "HighDescription": "You are easy to please and try to avoid confrontation",
+      "HighTerm": "Accommodating",
+      "LowDescription": "You do not shy away from contradicting others",
+      "Big5": "big5_agreeableness"
+    }
+  },
+  "needs": {
+    "need_practicality": [
+      "efficiency",
+      "practicality",
+      "high value",
+      "convenience"
+    ],
+    "need_curiosity": [
+      "discovery",
+      "mastery",
+      "gaining knowledge"
+    ],
+    "need_stability": [
+      "stability",
+      "authenticity",
+      "trustworthiness"
+    ],
+    "need_self_expression": [
+      "self-expression",
+      "personal empowerment",
+      "personal strength"
+    ],
+    "need_structure": [
+      "organization",
+      "straightforwardness",
+      "clarity",
+      "reliability"
+    ],
+    "need_challenge": [
+      "prestige",
+      "competition",
+      "glory"
+    ],
+    "need_liberty": [
+      "modernity",
+      "expanding possibility",
+      "escape",
+      "spontaneity",
+      "novelty"
+    ],
+    "need_harmony": [
+      "well-being",
+      "courtesy",
+      "politeness"
+    ],
+    "need_love": [
+      "connectedness",
+      "affinity"
+    ],
+    "need_excitement": [
+      "revelry",
+      "anticipation",
+      "exhiliration"
+    ],
+    "need_ideal": [
+      "sophistication",
+      "spirituality",
+      "superiority",
+      "fulfillment"
+    ],
+    "need_closeness": [
+      "belongingness",
+      "nostalgia",
+      "intimacy"
+    ]
+  },
+  "phrases": {
+    "Experiences that give a sense of %s hold some appeal to you": "Experiences that give a sense of %s hold some appeal to you",
+    "You consider %s to guide a large part of what you do": "You consider %s to guide a large part of what you do",
+    "You value both %s a bit": "You value both %s a bit",
+    "And %s": "And %s",
+    "And you are %s": "And you are %s",
+    "a bit %s": "a bit %s",
+    "can be perceived as %s": "can be perceived as %s",
+    "You are relatively unconcerned with both %s and %s": "You are relatively unconcerned with both %s and %s",
+    "You are %s and %s": "You are %s and %s",
+    "You value both %s and %s a bit": "You value both %s and %s a bit",
+    "You don't find %s to be particularly motivating for you": "You don't find %s to be particularly motivating for you",
+    "You are %s": "You are %s",
+    "You are %s, %s and %s": "You are %s, %s and %s",
+    "Your choices are driven by a desire for %s": "Your choices are driven by a desire for %s",
+    "You are motivated to seek out experiences that provide a strong feeling of %s": "You are motivated to seek out experiences that provide a strong feeling of %s",
+    "Experiences that make you feel high %s are generally unappealing to you": "Experiences that make you feel high %s are generally unappealing to you",
+    "You don't find either %s or %s to be particularly motivating for you": "You don't find either %s or %s to be particularly motivating for you",
+    "You are relatively unconcerned with %s": "You are relatively unconcerned with %s",
+    "somewhat %s": "somewhat %s",
+    "You value %s a bit more": "You value %s a bit more",
+    "You consider both %s and %s to guide a large part of what you do": "You consider both %s and %s to guide a large part of what you do"
+  },
+  "traits": {
+    "big5_conscientiousness_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "stern"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "strict"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "rigid"
+      }
+    ],
+    "big5_neuroticism_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "guarded"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "fretful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "insecure"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "pessimistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "secretive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "fearful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "negativistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-critical"
+      }
+    ],
+    "big5_agreeableness_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "insensitive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unaffectionate"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "passionless"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unemotional"
+      }
+    ],
+    "big5_agreeableness_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "sentimental"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "affectionate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensitive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "soft"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "passionate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "romantic"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "informal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "low-key"
+      }
+    ],
+    "big5_agreeableness_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "unpretentious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-effacing"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "dependable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "responsible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "reliable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "mannerly"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "considerate"
+      }
+    ],
+    "big5_agreeableness_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "bullheaded"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "abrupt"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "crude"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "combative"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "rough"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sly"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "manipulative"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "gruff"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "devious"
+      }
+    ],
+    "big5_neuroticism_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "easily rattled"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "easily irked"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "apprehensive"
+      }
+    ],
+    "big5_openness_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "simple"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "dependent"
+      }
+    ],
+    "big5_neuroticism_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "imperturbable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "insensitive"
+      }
+    ],
+    "big5_agreeableness_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "inconsiderate"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impolite"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "distrustful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "uncooperative"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "thoughtless"
+      }
+    ],
+    "big5_extraversion_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "active"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "competitive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "persistent"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "ambitious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "purposeful"
+      }
+    ],
+    "big5_agreeableness_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "strict"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "rigid"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "stern"
+      }
+    ],
+    "big5_neuroticism_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "patient"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "relaxed"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "undemanding"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "down-to-earth"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "optimistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "conceitless"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "uncritical"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "unpretentious"
+      }
+    ],
+    "big5_openness_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "predictable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unimaginative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "somber"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "apathetic"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unadventurous"
+      }
+    ],
+    "big5_extraversion_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "opinionated"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "forceful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "domineering"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "boastful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "bossy"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "dominant"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cunning"
+      }
+    ],
+    "big5_neuroticism_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "temperamental"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "irritable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "quarrelsome"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impatient"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "grumpy"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "crabby"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "cranky"
+      }
+    ],
+    "big5_neuroticism_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "excitable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "wordy"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "flirtatious"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "explosive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "extravagant"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "volatile"
+      }
+    ],
+    "big5_agreeableness_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "coarse"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "tactless"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "curt"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "narrow-minded"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "callous"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "ruthless"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "uncharitable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "vindictive"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "unpretentious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-effacing"
+      }
+    ],
+    "big5_agreeableness_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "genial"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tactful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "diplomatic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "deep"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "idealistic"
+      }
+    ],
+    "big5_agreeableness_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "critical"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "selfish"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "ill-tempered"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "antagonistic"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "grumpy"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "bitter"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "disagreeable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "demanding"
+      }
+    ],
+    "big5_openness_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "imperturbable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "insensitive"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "sophisticated"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "perfectionistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "industrious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "dignified"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "refined"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cultured"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "foresighted"
+      }
+    ],
+    "big5_agreeableness_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "shrewd"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "eccentric"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "individualistic"
+      }
+    ],
+    "big5_neuroticism_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "excitable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "passionate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensual"
+      }
+    ],
+    "big5_neuroticism_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "heartfelt"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "versatile"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "creative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "intellectual"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "insightful"
+      }
+    ],
+    "big5_openness_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "conventional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "traditional"
+      }
+    ],
+    "big5_extraversion_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "verbose"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unscrupulous"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "pompous"
+      }
+    ],
+    "big5_extraversion_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "inner-directed"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "introspective"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "meditative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "contemplating"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-examining"
+      }
+    ],
+    "big5_openness_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "shortsighted"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "foolhardy"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "illogical"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "immature"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "haphazard"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "lax"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "flippant"
+      }
+    ],
+    "big5_extraversion_minus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "tranquil"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sedate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "placid"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "impartial"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "unassuming"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "acquiescent"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "traditional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "conventional"
+      }
+    ],
+    "big5_openness_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "creative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "intellectual"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "insightful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "versatile"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "inventive"
+      }
+    ],
+    "big5_agreeableness_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "soft-hearted"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "agreeable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "obliging"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "humble"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "lenient"
+      }
+    ],
+    "big5_extraversion_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "indirect"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unenergetic"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "sluggish"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "nonpersistent"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "vague"
+      }
+    ],
+    "big5_openness_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "analytical"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "perceptive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "informative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "articulate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "dignified"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cultured"
+      }
+    ],
+    "big5_openness_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "verbose"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unscrupulous"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "pompous"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "rash"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "uncooperative"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unreliable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "distrustful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "thoughtless"
+      }
+    ],
+    "big5_agreeableness_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "generous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "pleasant"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tolerant"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "peaceful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "flexible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "easy-going"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "fair"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "charitable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "trustful"
+      }
+    ],
+    "big5_openness_plus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "shrewd"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "eccentric"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "individualistic"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "ambitious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "alert"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "firm"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "purposeful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "competitive"
+      }
+    ],
+    "big5_openness_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "idealistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "diplomatic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "deep"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tactful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "genial"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "foolhardy"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "illogical"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "immature"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "haphazard"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "lax"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "flippant"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "particular"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "high-strung"
+      }
+    ],
+    "big5_neuroticism_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "unselfconscious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "weariless"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "indefatigable"
+      }
+    ],
+    "big5_openness_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "coarse"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "tactless"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "curt"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "narrow-minded"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "callous"
+      }
+    ],
+    "big5_neuroticism_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "emotional"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "gullible"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "affectionate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensitive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "soft"
+      }
+    ],
+    "big5_extraversion_minus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "unaggressive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "humble"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "submissive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "timid"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "compliant"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "naïve"
+      }
+    ],
+    "big5_agreeableness_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "effervescent"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "happy"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "friendly"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "merry"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "jovial"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "humorous"
+      }
+    ],
+    "big5_openness_plus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "worldly"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "theatrical"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "eloquent"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "inquisitive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "intense"
+      }
+    ],
+    "big5_extraversion_minus_big5_openness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "somber"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "meek"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unadventurous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "passive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "apathetic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "docile"
+      }
+    ],
+    "big5_extraversion_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "restrained"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "serious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "discreet"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cautious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "principled"
+      }
+    ],
+    "big5_neuroticism_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "unassuming"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unexcitable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "placid"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "tranquil"
+      }
+    ],
+    "big5_extraversion_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "explosive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "wordy"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "extravagant"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "volatile"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "flirtatious"
+      }
+    ],
+    "big5_extraversion_plus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "expressive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "candid"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "dramatic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "spontaneous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "witty"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "opportunistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "independent"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_openness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "unconventional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "quirky"
+      }
+    ],
+    "big5_extraversion_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "skeptical"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "wary of others"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "seclusive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "uncommunicative"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unsociable"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "glum"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "detached"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "aloof"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "scatterbrained"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "inconsistent"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "erratic"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "forgetful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impulsive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "frivolous"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "thorough"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "steady"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "consistent"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-disciplined"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "logical"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "decisive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "controlled"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "concise"
+      }
+    ],
+    "big5_openness_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "easily rattled"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "easily irked"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "apprehensive"
+      }
+    ],
+    "big5_agreeableness_plus_big5_openness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "dependent"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "simple"
+      }
+    ],
+    "big5_conscientiousness_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "cautious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "confident"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "punctual"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "formal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "thrifty"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "principled"
+      }
+    ],
+    "big5_agreeableness_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "helpful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "cooperative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "considerate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "respectful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "polite"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "reasonable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "courteous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "thoughtful"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "loyal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "moral"
+      }
+    ],
+    "big5_neuroticism_minus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "rational"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "objective"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "steady"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "logical"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "decisive"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "poised"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "concise"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "thorough"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "economical"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-disciplined"
+      }
+    ],
+    "big5_extraversion_plus_big5_neuroticism_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "confident"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "bold"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "assured"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "uninhibited"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "courageous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "brave"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-satisfied"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "vigorous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "strong"
+      }
+    ],
+    "big5_agreeableness_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "cynical"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "wary of others"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "seclusive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "detached"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impersonal"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "glum"
+      }
+    ],
+    "big5_neuroticism_minus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "informal"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "low-key"
+      }
+    ],
+    "big5_neuroticism_minus_big5_agreeableness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "unemotional"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "insensitive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unaffectionate"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "passionless"
+      }
+    ],
+    "big5_extraversion_minus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "guarded"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "pessimistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "secretive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "cowardly"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "secretive"
+      }
+    ],
+    "big5_openness_plus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "introspective"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "meditative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "contemplating"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "self-examining"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "inner-directed"
+      }
+    ],
+    "big5_extraversion_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "boisterous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "mischievous"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "exhibitionistic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "gregarious"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "demonstrative"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_extraversion_plus": [
+      {
+        "perceived_negatively": true,
+        "word": "unruly"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "boisterous"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "reckless"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "devil-may-care"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "demonstrative"
+      }
+    ],
+    "big5_openness_plus_big5_neuroticism_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "passionate"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "excitable"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "sensual"
+      }
+    ],
+    "big5_extraversion_plus_big5_agreeableness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "social"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "energetic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "enthusiastic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "communicative"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "vibrant"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "spirited"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "magnetic"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "zestful"
+      }
+    ],
+    "big5_neuroticism_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "compulsive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "nosey"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "self-indulgent"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "forgetful"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "impulsive"
+      }
+    ],
+    "big5_openness_plus_big5_conscientiousness_minus": [
+      {
+        "perceived_negatively": false,
+        "word": "unconventional"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "quirky"
+      }
+    ],
+    "big5_conscientiousness_minus_big5_extraversion_minus": [
+      {
+        "perceived_negatively": true,
+        "word": "indecisive"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "aimless"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "wishy-washy"
+      },
+      {
+        "perceived_negatively": false,
+        "word": "noncommittal"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "unambitious"
+      }
+    ],
+    "big5_neuroticism_plus_big5_conscientiousness_plus": [
+      {
+        "perceived_negatively": false,
+        "word": "particular"
+      },
+      {
+        "perceived_negatively": true,
+        "word": "high-strung"
+      }
+    ]
+  },
+  "values": {
+    "value_self_transcendence": [
+      {
+        "Term": "Helping others",
+        "LowDescription": "You think people can handle their own business without interference",
+        "HighDescription": "You think it is important to take care of the people around you"
+      },
+      {
+        "Term": "Fairness",
+        "LowDescription": "You believe that people create their own opportunities",
+        "HighDescription": "You believe in social justice and equality for all"
+      },
+      {
+        "Term": "Social justice",
+        "LowDescription": "You believe that people create their own opportunities",
+        "HighDescription": "You believe in social justice and equality for all"
+      },
+      {
+        "Term": "Equality",
+        "LowDescription": "You believe that people create their own opportunities",
+        "HighDescription": "You believe in social justice and equality for all"
+      },
+      {
+        "Term": "Community service",
+        "LowDescription": "You think people can handle their own business without interference",
+        "HighDescription": "You think it is important to take care of the people around you"
+      }
+    ],
+    "value_hedonism": [
+      {
+        "Term": "Taking pleasure in life",
+        "LowDescription": "You prefer activities with a purpose greater than just personal enjoyment",
+        "HighDescription": "You are highly motivated to enjoy life to its fullest"
+      }
+    ],
+    "value_conservation": [
+      {
+        "Term": "Tradition",
+        "LowDescription": "You care more about making your own path than following what others have done",
+        "HighDescription": "You highly respect the groups you belong to and follow their guidance"
+      },
+      {
+        "Term": "Harmony",
+        "LowDescription": "You decide what is right based on your beliefs, not what other people think",
+        "HighDescription": "You know rules are there for a reason, and you try never to break them"
+      },
+      {
+        "Term": "Humility",
+        "LowDescription": "You decide what is right based on your beliefs, not what other people think",
+        "HighDescription": "You see worth in deferring to others"
+      },
+      {
+        "Term": "Social norms",
+        "LowDescription": "You decide what is right based on your beliefs, not what other people think",
+        "HighDescription": "You know rules are there for a reason, and you try never to break them"
+      },
+      {
+        "Term": "Security",
+        "LowDescription": "You believe that security is worth sacrificing to achieve other goals",
+        "HighDescription": "You believe that safety and security are important things to safeguard"
+      },
+      {
+        "Term": "Safety",
+        "LowDescription": "You believe that safety is worth sacrificing to achieve other goals",
+        "HighDescription": "You believe that safety and security are important things to safeguard"
+      }
+    ],
+    "value_self_enhancement": [
+      {
+        "Term": "Achieving success",
+        "LowDescription": "You make decisions with little regard for how they show off your talents",
+        "HighDescription": "You seek out opportunities to improve yourself and demonstrate that you are a capable person"
+      },
+      {
+        "Term": "Gaining social status",
+        "LowDescription": "You are comfortable with your social status and don't feel a strong need to improve it",
+        "HighDescription": "You put substantial effort into improving your status and public image"
+      },
+      {
+        "Term": "Ambition",
+        "LowDescription": "You are comfortable with your social status and don't feel a strong need to improve it",
+        "HighDescription": "You feel it is important to push forward towards goals"
+      },
+      {
+        "Term": "High achievement",
+        "LowDescription": "You make decisions with little regard for how they show off your talents",
+        "HighDescription": "You seek out opportunities to improve yourself and demonstrate that you are a capable person"
+      }
+    ],
+    "value_openness_to_change": [
+      {
+        "Term": "Independence",
+        "LowDescription": "You welcome when others direct your activities for you",
+        "HighDescription": "You like to set your own goals to decide how to best achieve them"
+      },
+      {
+        "Term": "Excitement",
+        "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky",
+        "HighDescription": "You are eager to search out new and exciting experiences"
+      },
+      {
+        "Term": "Creativity",
+        "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky",
+        "HighDescription": "You are eager to search out new and exciting experiences"
+      },
+      {
+        "Term": "Curiosity",
+        "LowDescription": "You would rather stick with things you already know you like than risk trying something new and risky",
+        "HighDescription": "You are eager to search out new and exciting experiences"
+      },
+      {
+        "Term": "Self-direction",
+        "LowDescription": "You welcome when others direct your activities for you",
+        "HighDescription": "You like to set your own goals to decide how to best achieve them"
+      },
+      {
+        "Term": "Freedom",
+        "LowDescription": "You welcome when others direct your activities for you",
+        "HighDescription": "You like to set your own goals to decide how to best achieve them"
+      }
+    ]
+  }
+}
