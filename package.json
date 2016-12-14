@@ -2,7 +2,7 @@
   "name": "personality-text-summary",
   "version": "1.0.2",
   "description": "Generate Text Summary for Personality Insights Profile",
-  "main": "bin/personality-text-summary.js",
+  "main": "lib/main.js",
   "exportName": "TextSummary",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
