@@ -5,45 +5,33 @@
 [![npm-license](https://img.shields.io/npm/l/personality-text-summary.svg)](https://www.npmjs.com/package/personality-text-summary)
 [![npm-downloads](https://img.shields.io/npm/dm/personality-text-summary.svg)](https://www.npmjs.com/package/personality-text-summary)
 
-Generate a text description from a given personality profile.
+Generate a text summary for a specified personality profile (v2 or v3).
 
-## Getting Started
+## Installation
 
-1. **Include the script** in your page
+```sh
+$ npm install personality-text-summary
 ```
-<script src="path/to/personality-text-summary.standalone.min.js"></script>
-```
-2. **Generate the text description** from a profile.
-```
-textSummary = new TextSummary('en');
-summaryText = textSummary.getSummary(profile);
-```
-3. Print it somewhere!
+## Usage
 
-See the complete [example code][example_code] or [try it live][live_example]
+```JavaScript
+  var PersonalityTextSummaries = require('personality-text-summary');
 
+  // locale is one of {'en', 'es', 'ja'}.  version refers to which version of Watson Personality Insights to use, v2 or v3.
+  var v3EnglishTextSummaries = new PersonalityTextSummaries({ locale: 'en', version: 'v3' });
 
-## API Methods
+  // retrieve the summary for a specified personality profile (json)
+  var textSummary  = v3EnglishTextSummaries.getSummary(myV3EnPersonalityProfile);
+  console.log('The summary for the provided profile is ' + textSummary);
 
-Public methods:
-* `constructor :: (Locale) -> TextSummary` - Returns a TextSummary instance.
-* `getSummary :: (Profile) -> String` - Returns a text summary for the given profile.
+  ```
 
-Where:
-* `Locale` is one of the [available locales](#available-locales).
-* `Profile` is a IBM Watson Personality Insights profile which is basically the service JSON output, parsed into a JavaScript `Object`.
+## License
 
+This library is licensed under Apache 2.0. Full license text is
+available in [LICENSE](LICENSE).
 
-## Available Locales
+## Changelog
 
-At the moment the available locales are:
-  - `en`
-  - `es`
-
-
-## Build from source
-
-You can run `gulp` command to build the component. Binaries will be deployed to `bin` folder.
-
-[example_code]: https://github.com/ibm-silvergate/personality-text-summary/blob/master/examples/example.html
-[live_example]: https://rawgit.com/ibm-silvergate/personality-text-summary/master/examples/example.html
+__01-01-2017__
+ * Added v3 summary
