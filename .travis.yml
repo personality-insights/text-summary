@@ -1,9 +1,18 @@
 language: node_js
-node_js:
-- "6.1"
-script:
-- npm test
+dist: trusty
+sudo: required
+node_js: 6
+script: npm test
+cache:
+  directories:
+  - node_modules
 notifications:
   email: false
-after_success:
-  - bash <(curl -s https://codecov.io/bash)
+deploy:
+  provider: npm
+  email: germanattanasio@gmail.com
+  api_key:
+    secure: JqV9dkvyFE97Lz1xKt9xqEOwd7dES+CNwsdSMSa/uvWn4Z97tyaFNau4P+ppRee8w8XFYUuhRXWvNduEa6lIYZ7oiafdK11bdhzRzGYv8Q3MskRE5qwwW9QdLbrjXXXbAoTbMIdmHTw2QovEsG+bKYi4TSQ7vGJKesiHHNz3CPV73v2yGBHHHevWOQNnw9u7WR6QnDrrlUIVgH6rMTtqRKyP5QntZWJbCSK13/9ShM1MAe81dAdqWGSVQkTI+hTKAczVyc69P120qOAGKKZUyZggFgsNFptCqPRivHpWxOoh/tuFjSDu8P+Q16xBNABrSa+rtL9L7J0oT60SjCVguYckfMfF8AG9yZrcb7GQi34IAPXSWo4QUbo4AebEMOddXJ4CMUM18/KdZOU/OCTa5M4PHPtxHfXc/b5yilkPW/LFHF1wWjJ6LAefkagZdL4KN2MspNV7I8pBVUxUPuGb0VmYVFHxe7T3Ifdp7WcwG+Lsf3bJQeMfiz5RMWMdeKVdvspVClfh0eSN8IYDtBKhQ0z9bjmC0WoQQR5orn2ATL0zFUf+OqDweJ4iJnhOMj7QwjV9gm2DE2hrItP/CDH3Ewz1Kw8KuOVtoo4+O/CCdylkyx3dJXAXD/rwjM/G8rmYSftHEEseTfxyKZH/0mTyXaPBttogqPWuy+rnG8RbMq0=
+  on:
+    tags: true
+    repo: personality-insights/trait-names
