@@ -18,7 +18,7 @@
 
 const assert = require('chai').assert;
 
-const TextSummary = require('../lib/index');
+const TextSummary = require('../src/index');
 
 // Note: the v2 and v3 profiles have the same values for each respective language; the only difference is
 //       the structure of the profile tree and some of the keys
