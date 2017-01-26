@@ -1,6 +1,6 @@
 {
   "name": "personality-text-summary",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Generate Text Summary for Personality Insights Profile",
   "main": "lib/index.js",
   "exportName": "TextSummary",
