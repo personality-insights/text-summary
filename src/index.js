@@ -25,8 +25,8 @@ var comparators = require('./utilities/comparators');
 
 const I18nDataV2 = require('./i18n/v2');
 const I18nDataV3 = require('./i18n/v3');
-const PersonalityProfileV2 = require('../profiles/v2/index');
-const PersonalityProfileV3 = require('../profiles/v3/index');
+const PersonalityProfileV2 = require('./profiles/v2/index');
+const PersonalityProfileV3 = require('./profiles/v3/index');
 const defaultVersion = 'v2';
 
 const CIRCUMPLEX_ORDER_OF_PERSONALITY_TRAITS = 'EANOC';
