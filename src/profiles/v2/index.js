@@ -34,7 +34,7 @@ class PersonalityProfile {
         facets: t.children.map(function(f) {
           return {
             //id: f.id,
-            id: f.id.replace('_', '-').replace(' ', '-'),
+            id: f.id.replace(/_/g, '-').replace(/ /g, '-'),
             name: f.name,
             category: f.category,
             score: f.percentage
@@ -59,7 +59,7 @@ class PersonalityProfile {
     return this._values.map(function(v) {
       return {
         //id: v.id,
-        id: v.id.replace('_', '-').replace(' ', '-'),
+        id: v.id.replace(/_/g, '-').replace(/ /g, '-'),
         name: v.name,
         category: v.category,
         score: v.percentage
