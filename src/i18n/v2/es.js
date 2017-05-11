@@ -16,4 +16,4 @@
 
  'use static';
 
- module.exports = require('../../../locales/v2/es');
+ module.exports = require('../../../locales/v2/es.json');
