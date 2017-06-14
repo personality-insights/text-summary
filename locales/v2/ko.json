@@ -14,7 +14,7 @@
       "LowDescription": "귀하는 자신만의 시간을 갖고 싶어하는 강한 열망이 있습니다",
       "Big5": "Extraversion"
     },
-    "Achievement-striving": {
+    "Achievement striving": {
       "LowTerm": "만족하는",
       "HighDescription": "귀하는 자신을 위한 높은 목표를 가지고 있으며 그것을 달성하기 위해 열심히 노력합니다",
       "HighTerm": "의욕이 넘치는",
@@ -140,7 +140,7 @@
       "LowDescription": "귀하는 자부심이 대단하고, 귀하의 자아에 만족합니다",
       "Big5": "Agreeableness"
     },
-    "Activity-level": {
+    "Activity level": {
       "LowTerm": "느긋한",
       "HighDescription": "귀하는 많은 활동과 함께 빠르게 진행되고, 바쁜 일정을 즐깁니다",
       "HighTerm": "활동적인",
@@ -161,7 +161,7 @@
       "LowDescription": "귀하는 규칙과 의무를 무시하고 귀하가 원하는 것을 합니다",
       "Big5": "Conscientiousness"
     },
-    "Artistic-interests": {
+    "Artistic interests": {
       "LowTerm": "예술에 무관심한",
       "HighDescription": "귀하는 아름다움을 즐기고 창조적인 경험을 찾아냅니다",
       "HighTerm": "예술에 감탄하는",
@@ -1568,7 +1568,7 @@
       "LowDescription": "귀하는 자신의 재능을 과시하는 방법을 거의 고려하지 않고 결정합니다",
       "HighDescription": "귀하는 자기자신을 계발하며 귀하가 유능한 사람임을 입증 할 수있는 기회를 찾습니다."
     }],
-    "Openness-to-change": [{
+    "Openness to change": [{
       "Term": "독립",
       "LowDescription": "귀하는 다른 사람들이 귀하의 활동을 지시할 때 기꺼이 받아들입니다",
       "HighDescription": "귀하는 최상의 목표달성 방법을 결정하기 위해 자신의 목표를 설정하는 것을 좋아합니다"
