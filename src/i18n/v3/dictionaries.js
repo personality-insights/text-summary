@@ -19,5 +19,6 @@
 module.exports = {
   'en' : require('./en'),
   'es' : require('./es'),
-  'ja' : require('./ja')
+  'ja' : require('./ja'),
+  'ko' : require('./ko')
 };

@@ -14,11 +14,6 @@
  * limitations under the License.
  */
 
-'use strict';
+ 'use static';
 
-module.exports = {
-  'en' : require('./en'),
-  'es' : require('./es'),
-  'ja' : require('./ja'),
-  'ko' : require('./ko')
-};
+ module.exports = require('../../../locales/v2/ko.json');
