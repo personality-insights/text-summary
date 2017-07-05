@@ -169,9 +169,9 @@
       "Big5": "big5_openness"
     },
     "facet_immoderation": {
-      "LowTerm": "Self-세심히 통제된",
+      "LowTerm": "자제력이있습니다",
       "HighDescription": "귀하는 귀하의 열망을 강력하게 느끼고 그것들에 의해 쉽게 유혹됩니다",
-      "HighTerm": "쾌락주의의",
+      "HighTerm": "쾌락주의자입니다",
       "LowDescription": "귀하는 특히 강렬하지 않은 당신의 열망을 통제 할 수 있습니다",
       "Big5": "big5_neuroticism"
     },
@@ -1558,7 +1558,7 @@
 			},
 			{
 				"perceived_negatively": false,
-				"word": "세심히 통제된"
+				"word": "자제력이있습니다"
 			},
 			{
 				"perceived_negatively": false,
