@@ -11,8 +11,7 @@ notifications:
 deploy:
   provider: npm
   email: germanattanasio@gmail.com
-  api_key:
-    secure: Soyu6j9tIdQH9pOVkM/bMMq6qMIo+QwrPUg4VRRrJo51zhHXilasVYJ7nM7hVquSgEbDapfSi1OQxzz+xH50eGCKj2hQwOdT6vopZpb7xrMBWbVwTKUXF6/FQyQ3sR75/sZLT8eJa4siqGiDexPS+mg3Abgxd/wCYEUfy3wzkwd4843GO+pbophtiQD7TMMnv9oMVCWBFAZaYmT68zYTUsFuKAb8pitEh5+D91Ng46nR+Jh1U6BxMHi4ZCoZ4pX0dQ484yCexA9vpfC/YmH0i1ox/ID9JEep42VvdJsQSCXnoxwi1ypjOVOfDY35vc7M1FK3J6fPW72n0+qD5ITMCFzwJ3qBC84zB7ulVnkrAPs00qQ9nfvatrdmoro8gvh8aAI5cDCqL/iBa3HURTMxIiaFiB2MHlOuANOHd0y+EBmniGVr+6RA/I76jMp5dL9qQILOBI+D1udB3fbSrDga++jFfQOunHC8NH0/hiuBa8EXj7sesyw7WDR2p8uXAIFE93jnbku34QI8Tl5EL5uE9psUGTgnybmcgm69Q60AUkol83lpweyMsONcCqs+F0h4QccpKPPZeRti4zfnbo109x/F6wVU70CeTWftSTMriwIJbvzE0pS2m9Y3f+48HRbzHCO9bLAuZrxyL3heYAPSKNcPqEY11USpBvpDCwtVKSo=
+  api_key: "${npm_api_key}"
   skip_cleanup: true
   on:
     tags: true

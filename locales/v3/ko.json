@@ -1,0 +1,2094 @@
+{
+	"facets": {
+		"facet_intellect": {
+			"LowTerm": "구체적인",
+			"HighDescription": "귀하는 새로운 아이디어에 흥미와 열린마음을 가지고 있고, 그것들을 탐구하는 것을 좋아합니다",
+			"HighTerm": "철학적인",
+			"LowDescription": "귀하는 추상적인 생각을 거의 고려하지 않고, 있는 그대로 처리하는 것을 선호합니다",
+			"Big5": "big5_openness"
+		},
+		"facet_gregariousness": {
+			"LowTerm": "의존적인",
+			"HighDescription": "귀하는 다른 사람들과 함께하는 것을 좋아합니다",
+			"HighTerm": "사교적인",
+			"LowDescription": "귀하는 자신만의 시간을 갖고 싶어하는 강한 열망이 있습니다",
+			"Big5": "big5_extraversion"
+		},
+		"facet_achievement_striving": {
+			"LowTerm": "만족하는",
+			"HighDescription": "귀하는 자신을 위한 높은 목표를 가지고 있으며 그것을 달성하기 위해 열심히 노력합니다",
+			"HighTerm": "의욕이 넘치는",
+			"LowDescription": "귀하는 귀하의 성취수준에 만족하여 야심찬 목표를 설정할 필요성을 느끼지 못합니다",
+			"Big5": "big5_conscientiousness"
+		},
+		"facet_depression": {
+			"LowTerm": "만족하는",
+			"HighDescription": "귀하가 행복해하지 않는 일에 대해 꽤 자주 생각합니다",
+			"HighTerm": "우울한",
+			"LowDescription": "귀하는 일반적으로 자기자신을 편하게 느낍니다",
+			"Big5": "big5_neuroticism"
+		},
+		"facet_sympathy": {
+			"LowTerm": "무정한",
+			"HighDescription": "귀하는 다른 사람들이 느끼는 것을 느끼고 그들에게 동정심을 가집니다",
+			"HighTerm": "이해심이 있는",
+			"LowDescription": "귀하는 사람들이 일반적으로 다른 사람들보다 자신에게 더 의존해야한다고 생각합니다",
+			"Big5": "big5_agreeableness"
+		},
+		"facet_imagination": {
+			"LowTerm": "현실적인",
+			"HighDescription": "귀하는 엉뚱한 상상력을 가지고 있습니다",
+			"HighTerm": "상상력이 풍부한",
+			"LowDescription": "귀하는 환상보다 사실을 선호합니다",
+			"Big5": "big5_openness"
+		},
+		"facet_self_discipline": {
+			"LowTerm": "간헐적인",
+			"HighDescription": "귀하는 어려운 작업과 맞서 싸우고 수행할 수 있습니다",
+			"HighTerm": "끈질긴",
+			"LowDescription": "귀하는 어려운 작업을 오랜 기간 수행하는데 어려움을 겪고 있습니다",
+			"Big5": "big5_conscientiousness"
+		},
+		"facet_assertiveness": {
+			"LowTerm": "조용한",
+			"HighDescription": "귀하는 상황을 대변하고 책임지는 경향이 있으며, 그룹을 이끄는게 편안합니다",
+			"HighTerm": "적극적인",
+			"LowDescription": "귀하는 특히 그룹 상황에서 말하는 것보다 듣는 것을 더 선호합니다",
+			"Big5": "big5_extraversion"
+		},
+		"facet_cheerfulness": {
+			"LowTerm": "근엄한",
+			"HighDescription": "귀하는 즐거운 사람이고 그 기쁨을 세상과 공유합니다",
+			"HighTerm": "쾌활한",
+			"LowDescription": "귀하는 일반적으로 심각하고 자주 농담하지 않습니다",
+			"Big5": "big5_extraversion"
+		},
+		"facet_self_efficacy": {
+			"LowTerm": "자신감이 부족한",
+			"HighDescription": "귀하는 귀하가 시작한 일을 성공적으로 수행하는 능력이 있다고 느낍니다",
+			"HighTerm": "자신감있는",
+			"LowDescription": "귀하는 귀하의 목표를 달성하는 능력에 자주 의문이 생깁니다",
+			"Big5": "big5_conscientiousness"
+		},
+		"facet_morality": {
+			"LowTerm": "타협적인",
+			"HighDescription": "귀하는 출세하기 위해 다른 사람들을 이용하는 것이 잘못 되었다고 생각합니다",
+			"HighTerm": "타협하지않는",
+			"LowDescription": "귀하는 귀하가 원하는 것을 얻기 위해 모든 가능한 방법을 사용하는 것이 편안합니다",
+			"Big5": "big5_agreeableness"
+		},
+		"facet_liberalism": {
+			"LowTerm": "권위를 존중하는",
+			"HighDescription": "귀하는 긍정적인 변화를 가져올 수 있도록 하기 위해 권위와 전통적 가치에 도전하는 것을 선호합니다",
+			"HighTerm": "권위에 도전하는",
+			"LowDescription": "귀하는 안정감을 유지하기 위해 전통을 따르는 것을 선호합니다",
+			"Big5": "big5_openness"
+		},
+		"facet_altruism": {
+			"LowTerm": "자기중심적인",
+			"HighDescription": "귀하는 다른 사람들을 도울 때 성취감을 느낄 것이고, 그렇게 하기위해 특별히 애를 쓸 것 입니다",
+			"HighTerm": "이타적인",
+			"LowDescription": "귀하는 다른 사람들을 위해 시간을 보내는 것보다 자신을 돌보는 것이 더 신경씁니다",
+			"Big5": "big5_agreeableness"
+		},
+		"facet_self_consciousness": {
+			"LowTerm": "자신감있는",
+			"HighDescription": "귀하는 다른 사람들이 귀하에 대해 생각하고 있는 것에 민감합니다",
+			"HighTerm": "남의 시선을 의식하는",
+			"LowDescription": "당신은 당황하기가 어렵고 대체로 자신감이 있습니다",
+			"Big5": "big5_neuroticism"
+		},
+		"facet_vulnerability": {
+			"LowTerm": "압박감을 받아도 침착한",
+			"HighDescription": "귀하는 스트레스가 많은 상황에서 쉽게 압도됩니다",
+			"HighTerm": "스트레스에 민감한",
+			"LowDescription": "귀하는 예기치 않은 사건을 침착하고 효과적으로 처리합니다",
+			"Big5": "big5_neuroticism"
+		},
+		"facet_trust": {
+			"LowTerm": "타인을 조심하는",
+			"HighDescription": "귀하는 다른 사람들을 가장 잘 믿으며 사람들을 쉽게 신뢰합니다",
+			"HighTerm": "타인을 신뢰하는",
+			"LowDescription": "귀하는 다른 사람들의 의도에 조심성이 있으며 쉽게 신뢰하지 않습니다",
+			"Big5": "big5_agreeableness"
+		},
+		"facet_orderliness": {
+			"LowTerm": "조직화 되지않은",
+			"HighDescription": "귀하는 인생에서 체계적인 것들에 대한 강한 필요성을 느낍니다",
+			"HighTerm": "조직적인",
+			"LowDescription": "귀하는 일상생활에서 조직을 위해 많은 시간을 보내지 않습니다",
+			"Big5": "big5_conscientiousness"
+		},
+		"facet_anxiety": {
+			"LowTerm": "자신감있는",
+			"HighDescription": "귀하는 일어날 수 있는 일에 대해 걱정하는 경향이 있습니다",
+			"HighTerm": "걱정을 잘하는",
+			"LowDescription": "귀하는 평온하고 자신감이 있는 경향이 있습니다",
+			"Big5": "big5_neuroticism"
+		},
+		"facet_friendliness": {
+			"LowTerm": "내성적인",
+			"HighDescription": "귀하는 쉽게 친구를 사귀고 다른 사람들과 함께 있는 것을 편안하게 느낍니다",
+			"HighTerm": "외향적인",
+			"LowDescription": "귀하는 개인적인 성향의 사람이고 많은 사람들을 마음속에 들여 보내지 않습니다",
+			"Big5": "big5_extraversion"
+		},
+		"facet_modesty": {
+			"LowTerm": "자랑스러워하는",
+			"HighDescription": "귀하는 집중의 중심에 있는 것이 불편합니다",
+			"HighTerm": "보통의",
+			"LowDescription": "귀하는 자부심이 대단하고, 귀하의 자아에 만족합니다",
+			"Big5": "big5_agreeableness"
+		},
+		"facet_activity_level": {
+			"LowTerm": "느긋한",
+			"HighDescription": "귀하는 많은 활동과 함께 빠르게 진행되고, 바쁜 일정을 즐깁니다",
+			"HighTerm": "활동적인",
+			"LowDescription": "귀하는 인생의 여유로운 속도에 감사하게 생각합니다",
+			"Big5": "big5_extraversion"
+		},
+		"facet_cautiousness": {
+			"LowTerm": "대담한",
+			"HighDescription": "귀하는 의사결정을 내리기 전에 면밀히 생각합니다",
+			"HighTerm": "계획적인",
+			"LowDescription": "귀하는 결정을 내리는 데 심사숙고하는 시간을 소비하는 것보다 차라리 바로 행동을 취하는 편입니다",
+			"Big5": "big5_conscientiousness"
+		},
+		"facet_dutifulness": {
+			"LowTerm": "근심걱정없는",
+			"HighDescription": "귀하는 심지어 불편할 때라도, 심하게 규칙과 의무를 지킵니다",
+			"HighTerm": "순종적인",
+			"LowDescription": "귀하는 규칙과 의무를 무시하고 귀하가 원하는 것을 합니다",
+			"Big5": "big5_conscientiousness"
+		},
+		"facet_artistic_interests": {
+			"LowTerm": "예술에 무관심한",
+			"HighDescription": "귀하는 아름다움을 즐기고 창조적인 경험을 찾아냅니다",
+			"HighTerm": "예술에 감탄하는",
+			"LowDescription": "귀하는 설문 조사에 참여한 대부분의 사람들보다 예술적이거나 창조적인 활동에 덜 관심이 있습니다",
+			"Big5": "big5_openness"
+		},
+		"facet_immoderation": {
+			"LowTerm": "Self-세심히 통제된",
+			"HighDescription": "귀하는 귀하의 열망을 강력하게 느끼고 그것들에 의해 쉽게 유혹됩니다",
+			"HighTerm": "쾌락주의의",
+			"LowDescription": "귀하는 특히 강렬하지 않은 당신의 열망을 통제 할 수 있습니다",
+			"Big5": "big5_neuroticism"
+		},
+		"facet_emotionality": {
+			"LowTerm": "감정에 좌우되지 않는",
+			"HighDescription": "귀하는 귀하의 감정과 그것을 표현하는 법을 알고 있습니다",
+			"HighTerm": "감정적으로 의식하는",
+			"LowDescription": "귀하는 자주 귀하의 감정을 생각하거나 공개적으로 표현하지 않습니다",
+			"Big5": "big5_openness"
+		},
+		"facet_adventurousness": {
+			"LowTerm": "일관된",
+			"HighDescription": "귀하는 새로운 것을 경험하고 싶어합니다",
+			"HighTerm": "모험심이 강한",
+			"LowDescription": "귀하는 익숙한 루틴을 즐기고, 그것으로 부터 이탈하지 않는 것을 선호합니다",
+			"Big5": "big5_openness"
+		},
+		"facet_anger": {
+			"LowTerm": "온순한 기질인",
+			"HighDescription": "귀하는 과격한 기질이 있는데, 특히 귀하의 뜻대로 되지 않을 때 그렇습니다",
+			"HighTerm": "불같은",
+			"LowDescription": "귀하는 화가 나는데 많은 시간이 필요합니다",
+			"Big5": "big5_neuroticism"
+		},
+		"facet_excitement_seeking": {
+			"LowTerm": "침착함을 추구하는",
+			"HighDescription": "귀하는 많은 액션이 없을 때 지루함을 느끼고 위험을 감수하는 것에 흥분합니다",
+			"HighTerm": "흥분을 추구하는",
+			"LowDescription": "귀하는 조용하고 안정적이며 안전한 활동을 선호합니다",
+			"Big5": "big5_extraversion"
+		},
+		"facet_cooperation": {
+			"LowTerm": "버릇없는",
+			"HighDescription": "귀하는 기뻐하는 감정이 쉽게 나타나며 대립을 피하려기 위해 노력합니다",
+			"HighTerm": "잘 협조하는",
+			"LowDescription": "귀하는 자기모순적인 다른 사람들로부터 피하지 않습니다",
+			"Big5": "big5_agreeableness"
+		}
+	},
+	"needs": {
+		"need_practicality": [
+			"효율성",
+			"실현가능성",
+			"높은가치",
+			"편의성"
+		],
+		"need_curiosity": [
+			"발견",
+			"숙달",
+			"지식습득"
+		],
+		"need_stability": [
+			"안정성",
+			"진위",
+			"신뢰성"
+		],
+		"need_self_expression": [
+			"자기표현",
+			"개인적인 권한",
+			"개인적인 강점"
+		],
+		"need_structure": [
+			"조직",
+			"정직함",
+			"명확성",
+			"신뢰할 수 있음"
+		],
+		"need_challenge": [
+			"명성",
+			"경쟁",
+			"영광"
+		],
+		"need_liberty": [
+			"현대성",
+			"가능성 확장",
+			"탈출",
+			"자발적임",
+			"참신함"
+		],
+		"need_harmony": [
+			"행복",
+			"정중함",
+			"공손함"
+		],
+		"need_love": [
+			"소속관계",
+			"친밀감"
+		],
+		"need_excitement": [
+			"흥청대며놀기",
+			"예측",
+			"유쾌한 기분"
+		],
+		"need_ideal": [
+			"교양",
+			"정신성",
+			"우월함",
+			"이행"
+		],
+		"need_closeness": [
+			"소속성",
+			"향수",
+			"친밀함"
+		]
+	},
+	"phrases": {
+      "Experiences that give a sense of %s hold some appeal to you": "%을(를) 느낀 경험은 귀하에게 매력적으로 느껴집니다",
+      "You consider %s to guide a large part of what you do": "귀하가 하는 일의 많은 부분에 %s를(을) 고려합니다",
+      "You value both %s a bit": "귀하는 %s 또한 어느정도 가치있게 여깁니다",
+      "And %s": "그리고 %s 입니다(합니다)",
+      "And you are %s": "또한 귀하는 %s 입니다(합니다)",
+      "a bit %s": "약간 %s",
+      "can be perceived as %s": "%s (으)로 인식될 수 있습니다",
+      "You are relatively unconcerned with both %s and %s": "귀하는 %s 와(과) %s 을(를) 비교적 신경쓰지않는 편입니다",
+      "You are %s and %s": "귀하는 %s 이고(하고) %s 입니다(합니다)",
+      "You value both %s and %s a bit": "귀하는 %s 와(과) %s 모두를 어느정도 가치있게 여깁니다",
+      "You don't find %s to be particularly motivating for you": "귀하는 %s 에서 특별한 동기부여를 받지 못하는 편입니다",
+      "You are %s": "귀하는 %s 입니다(합니다)",
+      "You are %s, %s and %s": "귀하는 %s, %s 그리고  %s 입니다(합니다)",
+      "Your choices are driven by a desire for %s": "귀하의 선택들은 %s에 대한 열망에 의해 좌우됩니다",
+      "You are motivated to seek out experiences that provide a strong feeling of %s": "귀하는 %s에 대한 강한 느낌을 주는 경험을 겪고 싶어 합니다",
+      "Experiences that make you feel high %s are generally unappealing to you": "%s 을(를) 많이 느끼는 경험들은 귀하가 그다지 매력적으로 느끼지 않습니다",
+      "You don't find either %s or %s to be particularly motivating for you": "%s 이나 %s 모두 귀하를 특별히 움직이게 하는 동기는 되지 못합니다",
+      "You are relatively unconcerned with %s": "%s에 대해 귀하는 상대적으로 신경쓰지 않는 편입니다",
+      "somewhat %s": "다소 %s",
+      "You value %s a bit more": "귀하는 %s에 조금 더 가치를 둡니다",
+      "You consider both %s and %s to guide a large part of what you do": "귀하는 무언가 하시는 일의 많은 부분에 %s 와(과) %s 모두를 고려합니다"
+  },
+	"traits": {
+		"big5_conscientiousness_plus_big5_agreeableness_minus": [
+      {
+				"perceived_negatively": true,
+				"word": "단호한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "엄격한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "융통성 없는"
+			}
+		],
+		"big5_neuroticism_plus_big5_extraversion_minus": [
+      {
+				"perceived_negatively": false,
+				"word": "신중한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "조바심치는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "자신이없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "비관적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "비밀스러운"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "걱정하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "부정론적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기비판적인"
+			}
+		],
+		"big5_agreeableness_minus_big5_neuroticism_minus": [{
+				"perceived_negatively": true,
+				"word": "둔감한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "애정이없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "열정없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "감정을 드러내지 않는"
+			}
+		],
+		"big5_agreeableness_plus_big5_neuroticism_plus": [{
+				"perceived_negatively": false,
+				"word": "감상적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "다정한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "예민한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "부드러운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "열정을느끼는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "로맨틱한"
+			}
+		],
+		"big5_conscientiousness_minus_big5_neuroticism_minus": [{
+				"perceived_negatively": false,
+				"word": "형식에 얽매이지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "절제하는"
+			}
+		],
+		"big5_agreeableness_plus_big5_conscientiousness_minus": [{
+				"perceived_negatively": false,
+				"word": "잘난체 하지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "본인을 내세우지 않는"
+			}
+		],
+		"big5_conscientiousness_plus_big5_agreeableness_plus": [{
+				"perceived_negatively": false,
+				"word": "믿을 수 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "책임지고 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "신뢰할 수 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "예절이 바른"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "사려깊은"
+			}
+		],
+		"big5_agreeableness_minus_big5_extraversion_plus": [{
+				"perceived_negatively": true,
+				"word": "완고한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "퉁명스러운"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "대충의"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "금방이라도 싸울듯이"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "개략적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "교활한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "조종하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "거친"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "정직하지 못한"
+			}
+		],
+		"big5_neuroticism_plus_big5_openness_minus": [{
+				"perceived_negatively": false,
+				"word": "쉽게 난처해지는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "쉽게 짜증내는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "걱정되는"
+			}
+		],
+		"big5_openness_minus_big5_agreeableness_plus": [{
+				"perceived_negatively": true,
+				"word": "단순한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "의존하는"
+			}
+		],
+		"big5_neuroticism_minus_big5_openness_minus": [{
+				"perceived_negatively": false,
+				"word": "쉽게 동요하지 않는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "둔감한"
+			}
+		],
+		"big5_agreeableness_minus_big5_conscientiousness_minus": [{
+				"perceived_negatively": true,
+				"word": "사려깊지못한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "불공손한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "의심많은"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "비협조적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무심한"
+			}
+		],
+		"big5_extraversion_plus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "활동적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "경쟁력있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "끈질긴"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "야심찬"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "목적의식이 있는"
+			}
+		],
+		"big5_agreeableness_minus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "엄격한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "융통성없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "단호한"
+			}
+		],
+		"big5_neuroticism_minus_big5_agreeableness_plus": [{
+				"perceived_negatively": false,
+				"word": "참을성있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "여유있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "힘들지 않은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "현실적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "낙관적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "명청한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "무비판적인"
+
+			},
+			{
+				"perceived_negatively": false,
+				"word": "잘난체 하지 않는"
+			}
+		],
+		"big5_openness_minus_big5_extraversion_minus": [{
+				"perceived_negatively": false,
+				"word": "예측할 수 있는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "상상력이 부족한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "어두침침한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무관심한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "모험심이 없는"
+			}
+		],
+		"big5_extraversion_plus_big5_agreeableness_minus": [{
+				"perceived_negatively": false,
+				"word": "자기의견을 고집하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "단호한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "지배하려드는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "자랑하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "우두머리행세를 하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "우세한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "교활한"
+			}
+		],
+		"big5_neuroticism_plus_big5_agreeableness_minus": [{
+				"perceived_negatively": true,
+				"word": "괴팍한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "짜증내는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "다투기 좋아하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "참을성이 없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "성격이 나쁜"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "괴팍한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "짜증내는"
+			}
+		],
+		"big5_neuroticism_plus_big5_extraversion_plus": [{
+				"perceived_negatively": false,
+				"word": "흥분을 잘하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "장황한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "추파를던지는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "격정적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "낭비벽이있는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "변덕스러운"
+			}
+		],
+		"big5_agreeableness_minus_big5_openness_minus": [{
+				"perceived_negatively": true,
+				"word": "거친"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "요령없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "퉁명스러운"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "속이좁은"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "냉담한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무자비한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "몰인정한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "앙심을 품은"
+			}
+		],
+		"big5_conscientiousness_minus_big5_agreeableness_plus": [{
+				"perceived_negatively": false,
+				"word": "잘난체 하지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기를 내세우지 않는"
+			}
+		],
+		"big5_agreeableness_plus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "상냥한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "요령있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "외교적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "깊은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "이상주의적인"
+			}
+		],
+		"big5_agreeableness_minus_big5_neuroticism_plus": [{
+				"perceived_negatively": true,
+				"word": "비판적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "이기적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "성질이나쁜"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "적대적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "성격이나쁜"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "억울해하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "유쾌하지못한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "부담이 큰"
+			}
+		],
+		"big5_openness_minus_big5_neuroticism_minus": [{
+				"perceived_negatively": false,
+				"word": "쉽게동요하지 않는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "둔감한"
+			}
+		],
+		"big5_conscientiousness_plus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "세련된"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "완벽주의자적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "근면한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "위엄있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "정제된"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "교양있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "선견지명이있는"
+			}
+		],
+		"big5_agreeableness_minus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "상황판단이 빠른"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "괴짜인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "개인주의적인"
+			}
+		],
+		"big5_neuroticism_plus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "흥분을잘하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "열정을느끼는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "감각적인"
+			}
+		],
+		"big5_neuroticism_minus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "진심어린"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "다재다능한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "창의적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "지적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "통찰력있는"
+			}
+		],
+		"big5_openness_minus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "관습적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "전통의"
+			}
+		],
+		"big5_extraversion_plus_big5_openness_minus": [{
+				"perceived_negatively": true,
+				"word": "장황한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "부도덕한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "거만한"
+			}
+		],
+		"big5_extraversion_minus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "내부지향적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기성찰적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "깊은생각에 잠긴"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "숙고하고 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기반성적인"
+			}
+		],
+		"big5_openness_minus_big5_conscientiousness_minus": [{
+				"perceived_negatively": true,
+				"word": "선견지명이 없는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "무모한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "비논리적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "미숙한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무계획적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "해이한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "경솔한"
+			}
+		],
+		"big5_extraversion_minus_big5_neuroticism_minus": [{
+				"perceived_negatively": false,
+				"word": "평온한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "차분한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "얌전한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "공정한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "잘난체하지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "잠자코 동의하는"
+			}
+		],
+		"big5_conscientiousness_plus_big5_openness_minus": [{
+				"perceived_negatively": false,
+				"word": "전통의"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "관습적인"
+			}
+		],
+		"big5_openness_plus_big5_neuroticism_minus": [{
+				"perceived_negatively": false,
+				"word": "창의적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "지적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "통찰력있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "다재다능한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "독창적인"
+			}
+		],
+		"big5_agreeableness_plus_big5_extraversion_minus": [{
+				"perceived_negatively": false,
+				"word": "마음이 부드러운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "기분좋은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "도와주는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "겸손한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "관대한"
+			}
+		],
+		"big5_extraversion_minus_big5_conscientiousness_minus": [{
+				"perceived_negatively": true,
+				"word": "간접적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "기가허한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "느릿느릿 움직이는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "지속성이 없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "희미한"
+			}
+		],
+		"big5_openness_plus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "분석적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "통찰력있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "유용한 정보를 주는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "분명히 표현하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "위엄있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "교양있는"
+			}
+		],
+		"big5_openness_minus_big5_extraversion_plus": [{
+				"perceived_negatively": true,
+				"word": "장황한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "부도덕한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "거만한"
+			}
+		],
+		"big5_conscientiousness_minus_big5_agreeableness_minus": [{
+				"perceived_negatively": true,
+				"word": "무분별한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "비협조적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "믿을 수 없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "의심많은"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무심한"
+			}
+		],
+		"big5_agreeableness_plus_big5_neuroticism_minus": [{
+				"perceived_negatively": false,
+				"word": "관대한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "즐거운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "아량있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "평화로운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "융통성있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "느긋한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "공평한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자선을 베푸는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "믿음직하게 여기는"
+			}
+		],
+		"big5_openness_plus_big5_agreeableness_minus": [{
+				"perceived_negatively": false,
+				"word": "상황판단이 빠른"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "괴짜인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "개인주의적인"
+			}
+		],
+		"big5_conscientiousness_plus_big5_extraversion_plus": [{
+				"perceived_negatively": false,
+				"word": "야심찬"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "기민한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "단호한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "목적의식이 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "경쟁력있는"
+			}
+		],
+		"big5_openness_plus_big5_agreeableness_plus": [{
+				"perceived_negatively": false,
+				"word": "이상주의적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "외교적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "깊은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "요령있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "상냥한"
+			}
+		],
+		"big5_conscientiousness_minus_big5_openness_minus": [{
+				"perceived_negatively": false,
+				"word": "무모한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "비논리적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "미숙한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무계획적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "해이한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "경솔한"
+			}
+		],
+		"big5_conscientiousness_plus_big5_neuroticism_plus": [{
+				"perceived_negatively": false,
+				"word": "까다로운"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "극도로 긴장한"
+			}
+		],
+		"big5_neuroticism_minus_big5_extraversion_plus": [{
+				"perceived_negatively": false,
+				"word": "남의눈을 신경쓰지않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "피곤을 모르는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "포기할 줄 모르는"
+			}
+		],
+		"big5_openness_minus_big5_agreeableness_minus": [{
+				"perceived_negatively": true,
+				"word": "거친"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "요령없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "퉁명스러운"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "속이좁은"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "냉담한"
+			}
+		],
+		"big5_neuroticism_plus_big5_agreeableness_plus": [{
+				"perceived_negatively": false,
+				"word": "감정적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "남을 잘 믿는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "다정한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "예민한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "부드러운"
+			}
+		],
+		"big5_extraversion_minus_big5_agreeableness_plus": [{
+				"perceived_negatively": false,
+				"word": "비공격적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "겸손한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "순종적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "소심한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "순응하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "소박한"
+			}
+		],
+		"big5_agreeableness_plus_big5_extraversion_plus": [{
+				"perceived_negatively": false,
+				"word": "열광하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "행복한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "친밀한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "즐거운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "아주 쾌활한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "유머러스한"
+			}
+		],
+		"big5_openness_plus_big5_extraversion_plus": [{
+				"perceived_negatively": false,
+				"word": "세속적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "과장된"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "유창한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "탐구심이 많은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "극심한"
+			}
+		],
+		"big5_extraversion_minus_big5_openness_minus": [{
+				"perceived_negatively": false,
+				"word": "어두침침한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "온순한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "모험심이 없는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "수동적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무관심한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "고분고분한"
+			}
+		],
+		"big5_extraversion_minus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "차분한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "심각한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "신중한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "조심스러운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "지조있는"
+			}
+		],
+		"big5_neuroticism_minus_big5_extraversion_minus": [{
+				"perceived_negatively": false,
+				"word": "잘난체하지 않는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "쉽게 흥분하지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "얌전한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "평온한"
+			}
+		],
+		"big5_extraversion_plus_big5_neuroticism_plus": [{
+				"perceived_negatively": false,
+				"word": "격정적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "장황한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "낭비하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "변덕스러운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "추파를 던지는"
+			}
+		],
+		"big5_extraversion_plus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "표현력이 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "솔직한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "극적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자발적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "재치있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "기회주의적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "독립적인"
+			}
+		],
+		"big5_conscientiousness_minus_big5_openness_plus": [{
+				"perceived_negatively": false,
+				"word": "관습에 얽매이지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "변덕스러운"
+			}
+		],
+		"big5_extraversion_minus_big5_agreeableness_minus": [{
+				"perceived_negatively": false,
+				"word": "의심많은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "타인을 조심하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "은둔적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "말을 잘 안하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "비사교적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "침울한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "거리를 두는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "냉담한"
+			}
+		],
+		"big5_conscientiousness_minus_big5_neuroticism_plus": [{
+				"perceived_negatively": true,
+				"word": "침착하지 못한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "모순되는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "불규칙한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "잘 잊어버리는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "충동적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "경솔한"
+			}
+		],
+		"big5_conscientiousness_plus_big5_neuroticism_minus": [{
+				"perceived_negatively": false,
+				"word": "철두철미한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "꾸준한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "한결같은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기 수양이된"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "논리적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "결단력 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "세심히 통제된"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "간결한"
+			}
+		],
+		"big5_openness_minus_big5_neuroticism_plus": [{
+				"perceived_negatively": false,
+				"word": "쉽게 난처해지는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "쉽게 짜증내는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "걱정되는"
+			}
+		],
+		"big5_agreeableness_plus_big5_openness_minus": [{
+				"perceived_negatively": true,
+				"word": "의존하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "단순한"
+			}
+		],
+		"big5_conscientiousness_plus_big5_extraversion_minus": [{
+				"perceived_negatively": false,
+				"word": "조심스러운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자신감있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "시간을 지키는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "격식을 차린"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "절약하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "지조있는"
+			}
+		],
+		"big5_agreeableness_plus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "도움이 되는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "협력하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "사려깊은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "존경심을 보이는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "공손한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "타당한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "courteous"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "배려심 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "충성스러운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "도덕적인"
+			}
+		],
+		"big5_neuroticism_minus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "합리적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "객관적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "꾸준한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "논리적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "결단력 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "poised"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "간결한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "철두철미한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "실속있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기 수양이된"
+			}
+		],
+		"big5_extraversion_plus_big5_neuroticism_minus": [{
+				"perceived_negatively": false,
+				"word": "자신감있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "용감한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자신감 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "거리낌이 없는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "용감한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "용기있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기만족에 빠진"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "활발한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "확고한"
+			}
+		],
+		"big5_agreeableness_minus_big5_extraversion_minus": [{
+				"perceived_negatively": true,
+				"word": "냉소적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "타인을 조심하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "은둔적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "거리를 두는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "인간미없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "침울한"
+			}
+		],
+		"big5_neuroticism_minus_big5_conscientiousness_minus": [{
+				"perceived_negatively": false,
+				"word": "형식에 얽매이지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "절제하는"
+			}
+		],
+		"big5_neuroticism_minus_big5_agreeableness_minus": [{
+				"perceived_negatively": true,
+				"word": "감정을 드러내지않는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "둔감한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "애정이 없는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "열정없는"
+			}
+		],
+		"big5_extraversion_minus_big5_neuroticism_plus": [{
+				"perceived_negatively": false,
+				"word": "조심스러운"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "비관적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "비밀스러운"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "겁이많은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "비밀스러운"
+			}
+		],
+		"big5_openness_plus_big5_extraversion_minus": [{
+				"perceived_negatively": false,
+				"word": "자기성찰적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "깊은생각에 잠긴"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "숙고하고 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "자기반성적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "내부지향적인"
+			}
+		],
+		"big5_extraversion_plus_big5_conscientiousness_minus": [{
+				"perceived_negatively": false,
+				"word": "활기가 넘치는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "짓궃은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "과시벽이 있는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "남과 어울리기 좋아하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "숨기지 않는"
+			}
+		],
+		"big5_conscientiousness_minus_big5_extraversion_plus": [{
+				"perceived_negatively": true,
+				"word": "제멋대로 구는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "활기가 넘치는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "무모한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "명랑쾌활한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "숨기지 않는"
+			}
+		],
+		"big5_openness_plus_big5_neuroticism_plus": [{
+				"perceived_negatively": false,
+				"word": "열정을느끼는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "흥분을잘하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "감각적인"
+			}
+		],
+		"big5_extraversion_plus_big5_agreeableness_plus": [{
+				"perceived_negatively": false,
+				"word": "사회적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "활동적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "열광적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "말을 잘하는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "활기찬"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "활발한"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "대단히 매력적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "열심인"
+			}
+		],
+		"big5_neuroticism_plus_big5_conscientiousness_minus": [{
+				"perceived_negatively": true,
+				"word": "강박적인"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "참견하기 좋아하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "제멋대로하는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "잘 잊어버리는"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "충동적인"
+			}
+		],
+		"big5_openness_plus_big5_conscientiousness_minus": [{
+				"perceived_negatively": false,
+				"word": "관습에 얽매이지 않는"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "변덕스러운"
+			}
+		],
+		"big5_conscientiousness_minus_big5_extraversion_minus": [{
+				"perceived_negatively": true,
+				"word": "우유부단한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "목적을 잃은"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "미온적인"
+			},
+			{
+				"perceived_negatively": false,
+				"word": "애매한"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "야망이없는"
+			}
+		],
+		"big5_neuroticism_plus_big5_conscientiousness_plus": [{
+				"perceived_negatively": false,
+				"word": "까다로운"
+			},
+			{
+				"perceived_negatively": true,
+				"word": "극도로 긴장한"
+			}
+		]
+	},
+	"values": {
+		"value_self_transcendence": [
+      {
+				"Term": "타인을 돕는 것",
+				"LowDescription": "귀하는 사람들이 간섭없이 자신의 일을 할 수 있다고 생각합니다",
+				"HighDescription": "귀하는 귀하의 주변 사람들을 돌보는 것이 중요하다고 생각합니다"
+			},
+			{
+				"Term": "공정함",
+				"LowDescription": "귀하는 사람들이 자신의 기회를 만든다고 믿습니다",
+				"HighDescription": "귀하는 모든 사람들을 위한 사회 정의와 평등을 믿습니다"
+			},
+			{
+				"Term": "사회정의",
+				"LowDescription": "귀하는 사람들이 자신의 기회를 만든다고 믿습니다",
+				"HighDescription": "귀하는 모든 사람들을 위한 사회 정의와 평등을 믿습니다"
+			},
+			{
+				"Term": "공평함",
+				"LowDescription": "귀하는 사람들이 자신의 기회를 만든다고 믿습니다",
+				"HighDescription": "귀하는 모든 사람들을 위한 사회 정의와 평등을 믿습니다"
+			},
+			{
+				"Term": "지역사회봉사",
+				"LowDescription": "귀하는 사람들이 간섭없이 자신의 일을 할 수 있다고 생각합니다",
+				"HighDescription": "귀하는 귀하의 주변 사람들을 돌보는 것이 중요하다고 생각합니다"
+			}
+		],
+		"value_hedonism": [
+      {
+			"Term": "인생의 즐거움을 즐기는 것",
+			"LowDescription": "귀하는 단지 개인적인 즐거움보다 더 큰 목적을 가진 활동을 선호합니다",
+			"HighDescription": "귀하는 인생을 최대한 즐기기 위해 매우 의욕적입니다"
+		}],
+		"value_conservation": [{
+				"Term": "전통",
+				"LowDescription": "귀하는 다른 사람들이 한 것을 따르는 것보다 직접 하는 것에 더 신경씁니다",
+				"HighDescription": "귀하는 귀하가 소속된 그룹을 매우 존경하고 그들의 지침을 따릅니다"
+			},
+			{
+				"Term": "조화",
+				"LowDescription": "귀하는 다른 사람들이 생각하는 것이 아닌, 당신의 믿음에 근거하여 올바른 것을 결정합니다",
+				"HighDescription": "귀하는 규칙은 이유가 있기 때문에 존재한다는 것을 알고 있으며, 그것을 절대 깨지 않으려고 노력합니다"
+			},
+			{
+				"Term": "겸손",
+				"LowDescription": "귀하는 다른 사람들이 생각하는 것이 아닌, 당신의 믿음에 근거하여 올바른 것을 결정합니다",
+				"HighDescription": "귀하는 다른 사람들을 따를만한 가치가 있음을 알고 있습니다"
+			},
+			{
+				"Term": "사회규범",
+				"LowDescription": "귀하는 다른 사람들이 생각하는 것이 아닌, 당신의 믿음에 근거하여 올바른 것을 결정합니다",
+				"HighDescription": "귀하는 규칙은 이유가 있기 때문에 존재한다는 것을 알고 있으며, 그것을 절대 깨지 않으려고 노력합니다"
+			},
+			{
+				"Term": "안보",
+				"LowDescription": "귀하는 안보는 다른 목표를 성취하기 위해 희생할 가치가 있다고 믿습니다",
+				"HighDescription": "귀하는 안전과 안보은 보호해야 할 중요한 것이라고 믿습니다"
+			},
+			{
+				"Term": "안전",
+				"LowDescription": "귀하는 보안은 다른 목표를 성취하기 위해 희생할 가치가 있다고 믿습니다",
+				"HighDescription": "귀하는 안전과 보안은 보호해야 할 중요한 것이라고 믿습니다"
+			}
+		],
+		"value_self_enhancement": [{
+				"Term": "성공 달성",
+				"LowDescription": "귀하는 자신의 재능을 과시하는 방법을 거의 고려하지 않고 결정합니다",
+				"HighDescription": "귀하는 자기자신을 나아지게 하며 귀하가 유능한 사람임을 입증 할 수있는 기회를 찾으십시오"
+			},
+			{
+				"Term": "사회적 지위 획득",
+				"LowDescription": "귀하는 귀하의 사회적 지위에 편안하고 그것을 개선할 강한 필요가 있다고 느끼지 않습니다",
+				"HighDescription": "귀하는 귀하의 지위와 대중적인 이미지를 개선하는데 상당한 노력을 기울였습니다"
+			},
+			{
+				"Term": "야망",
+				"LowDescription": "귀하는 귀하의 사회적 지위에 편안하고 그것을 개선할 강한 필요가 있다고 느끼지 않습니다",
+				"HighDescription": "귀하는 목표를 향해 나아가는 것이 중요하다고 느낍니다"
+			},
+			{
+				"Term": "높은 성취감",
+				"LowDescription": "귀하는 자신의 재능을 과시하는 방법을 거의 고려하지 않고 결정합니다",
+				"HighDescription": "귀하는 자기자신을 계발하며 귀하가 유능한 사람임을 입증 할 수있는 기회를 찾습니다"
+			}
+		],
+		"value_openness_to_change": [{
+				"Term": "독립",
+				"LowDescription": "귀하는 다른 사람들이 귀하의 활동을 지시할 때 기꺼이 받아들입니다",
+				"HighDescription": "귀하는 최상의 목표달성 방법을 결정하기 위해 자신의 목표를 설정하는 것을 좋아합니다"
+			},
+			{
+				"Term": "흥분",
+				"LowDescription": "귀하는 새롭고 위험한 무언가로 시도하는 것보다는 귀하가 선호하여 이미 알고있는 것으로 일을 하고 싶어 합니다",
+				"HighDescription": "귀하는 새롭고 흥미진진한 경험을 찾고 싶어합니다"
+			},
+			{
+				"Term": "창의성",
+				"LowDescription": "귀하는 새롭고 위험한 무언가로 시도하는 것보다는 귀하가 선호하여 이미 알고있는 것으로 일을 하고 싶어 합니다",
+				"HighDescription": "귀하는 새롭고 흥미진진한 경험을 찾고 싶어합니다"
+			},
+			{
+				"Term": "호기심",
+				"LowDescription": "귀하는 새롭고 위험한 무언가로 시도하는 것보다는 귀하가 선호하여 이미 알고있는 것으로 일을 하고 싶어 합니다",
+				"HighDescription": "귀하는 새롭고 흥미진진한 경험을 찾고 싶어합니다"
+			},
+			{
+				"Term": "자기제어",
+				"LowDescription": "귀하는 다른 사람들이 귀하의 활동을 지시할 때 기꺼이 받아들입니다",
+				"HighDescription": "귀하는 최상의 목표달성 방법을 결정하기 위해 자신의 목표를 설정하는 것을 좋아합니다"
+			},
+			{
+				"Term": "자유",
+				"LowDescription": "귀하는 다른 사람들이 귀하의 활동을 지시할 때 기꺼이 받아들입니다",
+				"HighDescription": "귀하는 최상의 목표달성 방법을 결정하기 위해 자신의 목표를 설정하는 것을 좋아합니다"
+			}
+		]
+	}
+}
