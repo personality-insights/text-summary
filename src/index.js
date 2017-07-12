@@ -346,6 +346,15 @@ class TextSummary {
     };
   }
 
+  getFacet(id) {
+    const facet = this.facetsData[id];
+    if (!facet) {
+      return Object.assign({}, facet);
+    } else {
+      return null;
+    }
+  }
+
   intervalFor(p) {
     return Math.min(Math.floor(p * 4), 3);
   }
