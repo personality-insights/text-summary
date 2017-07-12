@@ -348,7 +348,7 @@ class TextSummary {
 
   getFacet(id) {
     const facet = this.facetsData[id];
-    if (!facet) {
+    if (facet) {
       return Object.assign({}, facet);
     } else {
       return null;
