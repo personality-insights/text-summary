@@ -17,14 +17,25 @@ $ npm install personality-text-summary
 ```JavaScript
   var PersonalityTextSummaries = require('personality-text-summary');
 
-  // locale is one of {'en', 'es', 'ja'}.  version refers to which version of Watson Personality Insights to use, v2 or v3.
+  // locale is one of {'en', 'es', 'ja', 'ko'}.  version refers to which version of Watson Personality Insights to use, v2 or v3.
   var v3EnglishTextSummaries = new PersonalityTextSummaries({ locale: 'en', version: 'v3' });
 
   // retrieve the summary for a specified personality profile (json)
   var textSummary  = v3EnglishTextSummaries.getSummary(myV3EnPersonalityProfile);
   console.log('The summary for the provided profile is ' + textSummary);
+```
 
-  ```
+A few helper methods also exist to get additional text information:
+```javascript
+  var facet = v3EnglishTextSummaries.getFacet('facet_intellect');
+  /*
+    "LowTerm": "Concrete",
+    "HighDescription": "You are open to and intrigued by new ideas and love to explore them",
+    "HighTerm": "Philosophical",
+    "LowDescription": "You prefer dealing with the world as it is, rarely considering abstract ideas",
+    "Big5": "big5_openness"
+  */
+```
 
 ## License
 
