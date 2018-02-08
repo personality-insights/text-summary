@@ -1,4 +1,26 @@
 {
+  "big5": {
+    "big5_openness": {
+      "HighDescription": "Intelectualmente curiosos, emocionalmente conscientes, sensibles a la belleza, y deseosos por probar cosas nuevas.",
+      "LowDescription": "Prefieren lo común, directo, y obvio, frente a lo complicado, ambiguo y sutil."
+    },
+    "big5_conscientiousness": {
+      "HighDescription": "Auto-disciplinados, conscientes de sus deberes, o tendientes a querer alcanzar logros por encima de las medidas o expectativas externas.",
+      "LowDescription": "Más propensos a preferir lo espontáneo por sobre lo planificado."
+    },
+    "big5_extraversion": {
+      "HighDescription": "Más enérgico y marcado compromiso con el mundo externo. Les gusta la alta visibilidad en grupos, hablar y demostrarse a si mismos.",
+      "LowDescription": "Necesitan menos estimulación y son más independientes de su mundo social. No significa que sean tímidos, no amistosos, o antisociales."
+    },
+    "big5_agreeableness": {
+      "HighDescription": "Valoran llevarse bien con otros. Tienen una visión más optimista de la naturaleza humana.",
+      "LowDescription": "Valoran sus propios intereses por sobre los de otros. Son más escépticos de los motivos de los demás."
+    },
+    "big5_neuroticism": {
+      "HighDescription": "Más promensos a tener emociones negativas o disgustarse. Puede significar que estén pasando por un mañ momento.",
+      "LowDescription": "Más calmos y menos probables a disgustarse o alterarse. Esto no significa que sean gente positiva o feliz."
+    }
+  },
   "facets": {
     "facet_intellect": {
       "LowTerm": "Concreto",
