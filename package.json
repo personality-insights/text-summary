@@ -27,7 +27,10 @@
     "ibm watson"
   ],
   "dependencies": {
-    "underscore": "^1.8.3"
+    "lodash.assignin": "^4.2.0",
+    "lodash.includes": "^4.3.0",
+    "lodash.keys": "^4.2.0",
+    "lodash.pick": "^4.4.0"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.22.0",

@@ -16,9 +16,8 @@
 
 'use strict';
 
-const _ = require('underscore');
-const extend = _.extend;
-const pick = _.pick;
+const extend = require('lodash.assignin');
+const pick = require('lodash.pick');
 
 var format = require('./utilities/format');
 var comparators = require('./utilities/comparators');
