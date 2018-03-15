@@ -48,6 +48,7 @@ class TextSummary {
     this._translatorFactory = this._i18n.translatorFactory();
     this._translator = this._translatorFactory.createTranslator(this._dictionary.phrases);
 
+    this.big5Data = this._dictionary.big5;
     this.circumplexData = this._dictionary.traits;
     this.facetsData = this._dictionary.facets;
     this.valuesData = this._dictionary.values;
@@ -350,6 +351,15 @@ class TextSummary {
     const facet = this.facetsData[id];
     if (facet) {
       return Object.assign({}, facet);
+    } else {
+      return null;
+    }
+  }
+
+  getTrait(id) {
+    const trait = this.big5Data[id];
+    if (trait) {
+      return Object.assign({}, trait);
     } else {
       return null;
     }

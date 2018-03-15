@@ -1,4 +1,26 @@
 {
+  "big5": {
+    "Openness": {
+      "HighDescription": "Intellectually curious, emotionally-aware, sensitive to beauty and willing to try new things.",
+      "LowDescription": "Preferring the plain, straightforward, and obvious over the complex, ambiguous, and subtle."
+    },
+    "Conscientiousness": {
+      "HighDescription": "More self-disciplined, dutiful, or aiming for achievement against measures or outside expectations.",
+      "LowDescription": "More likely to prefer the spontaneous over the planned."
+    },
+    "Extraversion": {
+      "HighDescription": "More energetic and pronounced engagement with the external world. Likes high group visibility, talking, and asserting themselves.",
+      "LowDescription": "Needs less stimulation and are more independent of their social world. It does not mean they are shy, un-friendly, or antisocial."
+    },
+    "Agreeableness": {
+      "HighDescription": "Value getting along with others. They have a more optimistic view of human nature.",
+      "LowDescription": "Value self interests over others. They are more skeptical of others' motives."
+    },
+    "Neuroticism": {
+      "HighDescription": "More likely to have negative emotions or get upset. It could mean they are going through a tough time.",
+      "LowDescription": "More calm and less likely to get upset. It does not mean they are positive, or happy people."
+    }
+  },
   "facets": {
   	"Friendliness": {
   		"Big5": "Extraversion",
