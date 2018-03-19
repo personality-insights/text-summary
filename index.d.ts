@@ -2,19 +2,19 @@ export = PersonalityTextSummary;
 
 declare type Locale = 'en' | 'es' | 'ja' | 'ko';
 declare type Version = 'v2' | 'v3';
-declare type Format = 'plain' | 'html' | 'markdown';
 
 declare class PersonalityTextSummary {
   constructor(options?: {
     locale?: Locale,
-    version?: Version,
-    format?: Format
+    version?: Version
   });
 
   defaultOptions(): {
     locale: Locale,
     version: Version
   };
+
+  setLocale(locale: Locale): void;
 
   getSummary(profile: any): string;
 
