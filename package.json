@@ -27,7 +27,6 @@
     "ibm watson"
   ],
   "dependencies": {
-    "lodash.assignin": "^4.2.0",
     "lodash.includes": "^4.3.0",
     "lodash.keys": "^4.2.0",
     "lodash.pick": "^4.4.0"

@@ -17,22 +17,20 @@
 'use strict';
 
 const pick = require('lodash.pick');
-const I18nDataV2 = require('./i18n/v2');
 const I18nDataV3 = require('./i18n/v3');
-const PersonalityProfileV2 = require('./profiles/v2/index');
 const PersonalityProfileV3 = require('./profiles/v3/index');
 const TextSummaryImpl = require('./text-summary');
 
 const DEFAULT_OPTIONS = {
   locale: 'en',
-  version: 'v2'
+  version: 'v3'
 };
 
 class TextSummary extends TextSummaryImpl {
 
   constructor(options) {
-    const _options = Object.assign({}, DEFAULT_OPTIONS, pick(options, ['locale', 'version']));
-    super(_options, _options.version === 'v2' ? I18nDataV2 : I18nDataV3, _options.version === 'v2' ? PersonalityProfileV2 : PersonalityProfileV3);
+    const _options = Object.assign({}, DEFAULT_OPTIONS, pick(options, ['locale']));
+    super(_options, I18nDataV3, PersonalityProfileV3);
   }
 
   defaultOptions() {

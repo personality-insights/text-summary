@@ -17,7 +17,6 @@
 'use strict';
 
 const includes = require('lodash.includes');
-const extend = require('lodash.assignin');
 const keys = require('lodash.keys');
 const dictionaries = require('./dictionaries');
 
@@ -30,7 +29,7 @@ class I18nData {
 
   data() {
     //return keys(this._dictionary).reduce((res, k) => extend(res, this._dictionary[k]), {});
-    return extend({}, this._dictionary);
+    return Object.assign({}, this._dictionary);
   }
 
   translatorFactory(){
